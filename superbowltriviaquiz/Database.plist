@@ -1,0 +1,4153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>quizdb</key>
+	<array>
+		<dict>
+			<key>quiz</key>
+			<string>Victory by the Seattle Seahawks in Super Bowl XLVIII meant that 19 of the league&apos;s 32 teams had won the championship in the Super Bowl era. Which of these franchises was NOT one of the 13 teams still waiting for their first victory?</string>
+			<key>answer1</key>
+			<string>Eagles</string>
+			<key>answer2</key>
+			<string>Eagles</string>
+			<key>answer3</key>
+			<string>Rams</string>
+			<key>answer4</key>
+			<string>Bills</string>
+			<key>correct</key>
+			<string>Rams</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The largest margin of victory in a Super Bowl was 45 pts (55-10), by the 49ers over the Broncos in Superbowl XXIV. Only one other team had won by more than the Seahawks&apos; 35-point margin. Who are they?</string>
+			<key>answer1</key>
+			<string>Pittsburgh Steelers</string>
+			<key>answer2</key>
+			<string>Pittsburgh Steelers</string>
+			<key>answer3</key>
+			<string>Chicago Bears</string>
+			<key>answer4</key>
+			<string>Chicago Bears</string>
+			<key>correct</key>
+			<string>Chicago Bears</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Victory by the Seattle Seahawks in Super Bowl XLVIII meant that 19 of the league&apos;s 32 teams had won the championship in the Superbowl era. One of those 13 teams was an NFC franchise which won four NFL titles in the pre-Super Bowl days but in 48 attempts had still not made it to the Super Bowl. Which franchise?</string>
+			<key>answer1</key>
+			<string>Lions</string>
+			<key>answer2</key>
+			<string>Cardinals</string>
+			<key>answer3</key>
+			<string>Panthers</string>
+			<key>answer4</key>
+			<string>Falcons</string>
+			<key>correct</key>
+			<string>Lions</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>It was only fitting that a defensive player should be named as MVP of Super Bowl XLVIII. He was the third linebacker to be so honored in Super Bowl history. Which of these was *not* one of those three?</string>
+			<key>answer1</key>
+			<string>Malcolm Smith (Seahawks)</string>
+			<key>answer2</key>
+			<string>Chuck Howley (Cowboys)</string>
+			<key>answer3</key>
+			<string>Ray Lewis (Ravens)</string>
+			<key>answer4</key>
+			<string>Lawrence Taylor (Giants)</string>
+			<key>correct</key>
+			<string>Lawrence Taylor (Giants)</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Super Bowl XLVIII was the first to be held in the New York Metropolitan Area. Which stadium had been the venue most often in the previous 47 Super Bowls?</string>
+			<key>answer1</key>
+			<string>Superdome, New Orleans LA</string>
+			<key>answer2</key>
+			<string>Orange Bowl, Miami FL</string>
+			<key>answer3</key>
+			<string>Rose Bowl, Pasadena CA</string>
+			<key>answer4</key>
+			<string>Raymond James Stadium, Tampa FL</string>
+			<key>correct</key>
+			<string>Superdome, New Orleans LA</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>For Denver QB Peyton Manning, 2013 was the 13th time in just 15 attempts that he had led his team to the post-season. Against which team did he score his first Super Bowl victory?</string>
+			<key>answer1</key>
+			<string>New York Giants</string>
+			<key>answer2</key>
+			<string>New Orleans Saints</string>
+			<key>answer3</key>
+			<string>Chicago Bears</string>
+			<key>answer4</key>
+			<string>San Francisco 49ers</string>
+			<key>correct</key>
+			<string>Chicago Bears</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The coach of the Seahawks became the third coach in history to have led teams to victory in both the NFL Super Bowl and a College Football National Championship. Which of these is NOT one of those three?</string>
+			<key>answer1</key>
+			<string>Jimmy Johnson</string>
+			<key>answer2</key>
+			<string>Pete Carroll</string>
+			<key>answer3</key>
+			<string>Lou Holtz</string>
+			<key>answer4</key>
+			<string>Barry Switzer</string>
+			<key>correct</key>
+			<string>Lou Holtz</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Broncos offense set numerous records during the 2013 regular season. Peyton Manning did establish one new record in Super Bowl XLVIII. What was it?</string>
+			<key>answer1</key>
+			<string>Most completed passes</string>
+			<key>answer2</key>
+			<string>Most completed passes to start a game</string>
+			<key>answer3</key>
+			<string>Most consecutive completions</string>
+			<key>answer4</key>
+			<string>Most interceptions in a game</string>
+			<key>correct</key>
+			<string>Most completed passes</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Seattle not only starred on offense and defense at Super Bowl XLVIII, but also on special teams. Which Seahawk became the tenth player in Super Bowl history to return a kick-off for a touchdown?</string>
+			<key>answer1</key>
+			<string>Devin Hester</string>
+			<key>answer2</key>
+			<string>Andre Coleman</string>
+			<key>answer3</key>
+			<string>Fulton Walker</string>
+			<key>answer4</key>
+			<string>Percy Harvin</string>
+			<key>correct</key>
+			<string>Percy Harvin</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The appearance of the Seahawks and Broncos in Super Bowl XLVIII left which franchise with the longest active streak since their previous Super Bowl appearance?</string>
+			<key>answer1</key>
+			<string>Kansas City Chiefs</string>
+			<key>answer2</key>
+			<string>New York Jets</string>
+			<key>answer3</key>
+			<string>Washington Redskins</string>
+			<key>answer4</key>
+			<string>Miami Dolphins</string>
+			<key>correct</key>
+			<string>New York Jets</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What stadium hosted Super Bowl XLVIII, its first Super Bowl?</string>
+			<key>answer1</key>
+			<string>Lambeau Field</string>
+			<key>answer2</key>
+			<string>MetLife Stadium</string>
+			<key>answer3</key>
+			<string>Gillette Stadium</string>
+			<key>answer4</key>
+			<string>Soldier Field</string>
+			<key>correct</key>
+			<string>MetLife Stadium</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who sang the U.S. National Anthem before the Super Bowl?</string>
+			<key>answer1</key>
+			<string>Renee Fleming</string>
+			<key>answer2</key>
+			<string>Jennifer Hudson</string>
+			<key>answer3</key>
+			<string>Alicia Keys</string>
+			<key>answer4</key>
+			<string>Christina Aguilera</string>
+			<key>correct</key>
+			<string>Renee Fleming</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The scoring began early in Super Bowl XLVIII. Within twelve seconds of opening kickoff, a team had scored. What happened?</string>
+			<key>answer1</key>
+			<string>Denver kicked a field goal</string>
+			<key>answer2</key>
+			<string>Denver scored a touchdown</string>
+			<key>answer3</key>
+			<string>Seattle got a safety</string>
+			<key>answer4</key>
+			<string>Seattle scored a touchdown</string>
+			<key>correct</key>
+			<string>Seattle got a safety</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Near the end of the first half, Peyton Manning threw an interception that was returned for a touchdown by the Seahawks. What Seahawks linebacker scored this touchdown?</string>
+			<key>answer1</key>
+			<string>Earl Thomas</string>
+			<key>answer2</key>
+			<string>Richard Sherman</string>
+			<key>answer3</key>
+			<string>Malcolm Smith</string>
+			<key>answer4</key>
+			<string>Kam Chancellor</string>
+			<key>correct</key>
+			<string>Malcolm Smith</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What acts performed during the Super Bowl halftime show?</string>
+			<key>answer1</key>
+			<string>The Who</string>
+			<key>answer2</key>
+			<string>The Black Eyed Peas</string>
+			<key>answer3</key>
+			<string>Bruno Mars and the Red Hot Chili Peppers</string>
+			<key>answer4</key>
+			<string>Madonna</string>
+			<key>correct</key>
+			<string>Bruno Mars and the Red Hot Chili Peppers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The second half started with a bang when what player returned a kickoff for a touchdown?</string>
+			<key>answer1</key>
+			<string>Eric Decker</string>
+			<key>answer2</key>
+			<string>Golden Tate</string>
+			<key>answer3</key>
+			<string>Percy Harvin</string>
+			<key>answer4</key>
+			<string>Trindon Holliday</string>
+			<key>correct</key>
+			<string>Percy Harvin</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What undrafted Seahawks wide receiver caught a touchdown pass from Russell Wilson in the 3rd quarter of the game to further extend Seattle&apos;s lead?</string>
+			<key>answer1</key>
+			<string>Doug Baldwin</string>
+			<key>answer2</key>
+			<string>Julius Thomas</string>
+			<key>answer3</key>
+			<string>Golden Tate</string>
+			<key>answer4</key>
+			<string>Jermaine Kearse</string>
+			<key>correct</key>
+			<string>Jermaine Kearse</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The score was 36-0 when the Broncos finally scored in the 3rd quarter, when Peyton Manning threw a touchdown pass to what Denver receiver?</string>
+			<key>answer1</key>
+			<string>Wes Welker</string>
+			<key>answer2</key>
+			<string>Demaryius Thomas</string>
+			<key>answer3</key>
+			<string>Eric Decker</string>
+			<key>answer4</key>
+			<string>Jacob Tamme</string>
+			<key>correct</key>
+			<string>Demaryius Thomas</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many yards did Seattle quarterback Russell Wilson throw for during the game?</string>
+			<key>answer1</key>
+			<string>164</string>
+			<key>answer2</key>
+			<string>293</string>
+			<key>answer3</key>
+			<string>206</string>
+			<key>answer4</key>
+			<string>312</string>
+			<key>correct</key>
+			<string>206</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the final score of Super Bowl XLVIII?</string>
+			<key>answer1</key>
+			<string>Seattle Seahawks 44-14</string>
+			<key>answer2</key>
+			<string>Seattle Seahawks 43-8</string>
+			<key>answer3</key>
+			<string>Denver Broncos 37-36</string>
+			<key>answer4</key>
+			<string>Seattler Seahawks 36-9</string>
+			<key>correct</key>
+			<string>Seattle Seahawks 43-8</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Super Bowl XLV pitted the NFC Champion Packers against the AFC Champion Steelers. Between the two teams, which team had made the most Super Bowl appearances?</string>
+			<key>answer1</key>
+			<string>Packers (3)</string>
+			<key>answer2</key>
+			<string>Steelers (4)</string>
+			<key>answer3</key>
+			<string>Steelers (8)</string>
+			<key>answer4</key>
+			<string>Packers (10)</string>
+			<key>correct</key>
+			<string>Steelers (8)</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which stadium hosted Super Bowl XLV?</string>
+			<key>answer1</key>
+			<string>Sun Life Stadium</string>
+			<key>answer2</key>
+			<string>Reliant Stadium</string>
+			<key>answer3</key>
+			<string>University of Phoenix Stadium</string>
+			<key>answer4</key>
+			<string>Cowboy Stadium</string>
+			<key>correct</key>
+			<string>Cowboy Stadium</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the first player to score in Super Bowl XLV?</string>
+			<key>answer1</key>
+			<string>Hines Ward</string>
+			<key>answer2</key>
+			<string>Brandon Jackson</string>
+			<key>answer3</key>
+			<string>Rashard Mendenhall</string>
+			<key>answer4</key>
+			<string>Jordy Nelson</string>
+			<key>correct</key>
+			<string>Jordy Nelson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player obtained the first turnover in the game?</string>
+			<key>answer1</key>
+			<string>Nick Collins</string>
+			<key>answer2</key>
+			<string>Troy Polamalu</string>
+			<key>answer3</key>
+			<string>Lawrence Timmons</string>
+			<key>answer4</key>
+			<string>Clay Matthews</string>
+			<key>correct</key>
+			<string>Nick Collins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score of the game at halftime?</string>
+			<key>answer1</key>
+			<string>Packers 14-3</string>
+			<key>answer2</key>
+			<string>Steelers 17-6</string>
+			<key>answer3</key>
+			<string>Steelers 20-14</string>
+			<key>answer4</key>
+			<string>Packers 21-10</string>
+			<key>correct</key>
+			<string>Packers 21-10</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which receiver pulled down the most passing yards in the big game?</string>
+			<key>answer1</key>
+			<string>Jordy Nelson</string>
+			<key>answer2</key>
+			<string>Donald Driver</string>
+			<key>answer3</key>
+			<string>Hines Ward</string>
+			<key>answer4</key>
+			<string>Wes Welker</string>
+			<key>correct</key>
+			<string>Jordy Nelson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which team and by what score was the winner of Super Bowl XLV?</string>
+			<key>answer1</key>
+			<string>Steelers 21-17</string>
+			<key>answer2</key>
+			<string>Packers 31-25</string>
+			<key>answer3</key>
+			<string>Packers 23-10</string>
+			<key>answer4</key>
+			<string>Steelers 35-27</string>
+			<key>correct</key>
+			<string>Packers 31-25</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>A few minutes after the game ended, Hall of Fame Cowboy quarterback Roger Staubach carried the Vince Lombardi Trophy to the portable stage on the field to TV commentator Terry Bradshaw and NFL Commissioner Roger Goodell for the presentation of the Super Bowl XLV Champions award. What was Staubach&apos;s first recorded words upon arriving on the stage?</string>
+			<key>answer1</key>
+			<string>I thought the Packers would win this one.</string>
+			<key>answer2</key>
+			<string>Who do I give this to so I can get out of here?</string>
+			<key>answer3</key>
+			<string>This is deja vu for me!</string>
+			<key>answer4</key>
+			<string>Wow, what a game!</string>
+			<key>correct</key>
+			<string>Who do I give this to so I can get out of here?</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which head coach almost insured his return in the 2011 season by taking his team to the Super Bowl XLV crown?</string>
+			<key>answer1</key>
+			<string>Bill Cowher</string>
+			<key>answer2</key>
+			<string>Mike Tomlin</string>
+			<key>answer3</key>
+			<string>Mike McCarthy</string>
+			<key>answer4</key>
+			<string>Andy Reid</string>
+			<key>correct</key>
+			<string>Mike McCarthy</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who won the Super Bowl XLV Most Valuable Player Award?</string>
+			<key>answer1</key>
+			<string>Ben Roethlisberger</string>
+			<key>answer2</key>
+			<string>Clay Matthews</string>
+			<key>answer3</key>
+			<string>Hines Ward</string>
+			<key>answer4</key>
+			<string>Aaron Rodgers</string>
+			<key>correct</key>
+			<string>Aaron Rodgers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Wildcard weekend saw three of the four lower seeds pull off upset victories. Which team was the only higher seed to win?</string>
+			<key>answer1</key>
+			<string>Kansas City Chiefs</string>
+			<key>answer2</key>
+			<string>Philadelphia Eagles</string>
+			<key>answer3</key>
+			<string>Seattle Seahawks</string>
+			<key>answer4</key>
+			<string>Indianapolis Colts</string>
+			<key>correct</key>
+			<string>Seattle Seahawks</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which of the NFLs wildcard games was a rematch of a playoff game from the previous season?</string>
+			<key>answer1</key>
+			<string>Seahawks-Saints</string>
+			<key>answer2</key>
+			<string>Eagles-Packers</string>
+			<key>answer3</key>
+			<string>Chiefs-Ravens</string>
+			<key>answer4</key>
+			<string>Colts-Jets</string>
+			<key>correct</key>
+			<string>Colts-Jets</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Jets beat the Patriots in the divisional round in Gillette Stadium, becoming the first team to win in Foxborough since the Ravens beat New England in the 2009 playoffs. Prior to this win by the Jets, who had been the last team to defeat the Patriots at Gillette Stadium in a regular season game?</string>
+			<key>answer1</key>
+			<string>New York Jets</string>
+			<key>answer2</key>
+			<string>Miami Dolphins</string>
+			<key>answer3</key>
+			<string>Indianapolis Colts</string>
+			<key>answer4</key>
+			<string>Pittsburgh Steelers</string>
+			<key>correct</key>
+			<string>Pittsburgh Steelers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Of the 10 head coaches in the 2010 playoffs, how many were making their playoff debuts?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>0</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>4</string>
+			<key>correct</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player recorded the most interceptions in the playoffs?</string>
+			<key>answer1</key>
+			<string>Sam Shields</string>
+			<key>answer2</key>
+			<string>Lance Briggs</string>
+			<key>answer3</key>
+			<string>Troy Polamalu</string>
+			<key>answer4</key>
+			<string>Tramon Williams</string>
+			<key>correct</key>
+			<string>Tramon Williams</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player recorded the most sacks during the playoffs?</string>
+			<key>answer1</key>
+			<string>Terrell Suggs</string>
+			<key>answer2</key>
+			<string>Clay Matthews</string>
+			<key>answer3</key>
+			<string>James Harrison</string>
+			<key>answer4</key>
+			<string>LaMarr Woodley</string>
+			<key>correct</key>
+			<string>Terrell Suggs</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored the first touchdown in Super Bowl XLV?</string>
+			<key>answer1</key>
+			<string>Donald Driver</string>
+			<key>answer2</key>
+			<string>Jordy Nelson</string>
+			<key>answer3</key>
+			<string>Rashard Mendenhall</string>
+			<key>answer4</key>
+			<string>Hines Ward</string>
+			<key>correct</key>
+			<string>Jordy Nelson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which of the following players did not score a touchdown in Super Bowl XLV?</string>
+			<key>answer1</key>
+			<string>Nick Collins</string>
+			<key>answer2</key>
+			<string>James Starks</string>
+			<key>answer3</key>
+			<string>Mike Wallace</string>
+			<key>answer4</key>
+			<string>Greg Jennings</string>
+			<key>correct</key>
+			<string>James Starks</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The win by the Green Bay Packers in Super Bowl XLV represented their 13th NFL championship. What number Super Bowl win was it for the Pack?</string>
+			<key>answer1</key>
+			<string>9</string>
+			<key>answer2</key>
+			<string>6</string>
+			<key>answer3</key>
+			<string>4</string>
+			<key>answer4</key>
+			<string>5</string>
+			<key>correct</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player scored the most touchdowns in the 2010 NFL playoffs?</string>
+			<key>answer1</key>
+			<string>Greg Jennings</string>
+			<key>answer2</key>
+			<string>Hines Ward</string>
+			<key>answer3</key>
+			<string>LaDainian Tomlinson</string>
+			<key>answer4</key>
+			<string>Rashard Mendenhall</string>
+			<key>correct</key>
+			<string>Rashard Mendenhall</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In the wild card playoffs, all the wild card teams except one were eliminated. Which team beat the Washington Redskins in the NFC wild card weekend?</string>
+			<key>answer1</key>
+			<string>Cincinnati Bengals</string>
+			<key>answer2</key>
+			<string>Minnesota Vikings</string>
+			<key>answer3</key>
+			<string>Indianapolis Colts</string>
+			<key>answer4</key>
+			<string>Seattle Seahawks</string>
+			<key>correct</key>
+			<string>Seattle Seahawks</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>During the AFC divisional playoffs, the Denver Broncos had a close game with the Baltimore Ravens, each team getting equal points through all four quarters, until the Ravens finally struggled ahead with how many more points than the Broncos?</string>
+			<key>answer1</key>
+			<string>5 points</string>
+			<key>answer2</key>
+			<string>3 points</string>
+			<key>answer3</key>
+			<string>1 point</string>
+			<key>answer4</key>
+			<string>6 points</string>
+			<key>correct</key>
+			<string>3 points</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Despite winning one of the wild card playoffs, which team was beaten by the New England Patriots, and denied a shot at the Championships?</string>
+			<key>answer1</key>
+			<string>Houston Texans</string>
+			<key>answer2</key>
+			<string>Dallas Cowboys</string>
+			<key>answer3</key>
+			<string>Denver Broncos</string>
+			<key>answer4</key>
+			<string>Texas Rangers</string>
+			<key>correct</key>
+			<string>Houston Texans</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Beating the opposing team on their own home turf, which team won the NFC Championship and secured an appearance at the Super Bowl?</string>
+			<key>answer1</key>
+			<string>New York Giants</string>
+			<key>answer2</key>
+			<string>San Francisco 49ers</string>
+			<key>answer3</key>
+			<string>Atlanta Falcons</string>
+			<key>answer4</key>
+			<string>Green Bay Packers</string>
+			<key>correct</key>
+			<string>San Francisco 49ers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What unusual occurrence happened soon after the halftime show during the Super Bowl, causing a delay?</string>
+			<key>answer1</key>
+			<string>Player injury</string>
+			<key>answer2</key>
+			<string>Blackout</string>
+			<key>answer3</key>
+			<string>Thunderstorm</string>
+			<key>answer4</key>
+			<string>Earthquake</string>
+			<key>correct</key>
+			<string>Blackout</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In the final face-off between the two remaining teams at the Super Bowl, who won, and what was the score?</string>
+			<key>answer1</key>
+			<string>49ers 32-31</string>
+			<key>answer2</key>
+			<string>Ravens 34-31</string>
+			<key>answer3</key>
+			<string>Falcons 24-21</string>
+			<key>answer4</key>
+			<string>Patriots 45-41</string>
+			<key>correct</key>
+			<string>Ravens 34-31</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which team member of the winning team at the Super Bowl XLVII won the MVP award, wrapping up the football season of 2012?</string>
+			<key>answer1</key>
+			<string>Jacoby Jones</string>
+			<key>answer2</key>
+			<string>Michael Oher</string>
+			<key>answer3</key>
+			<string>Colin Kaepernick</string>
+			<key>answer4</key>
+			<string>Joe Flacco</string>
+			<key>correct</key>
+			<string>Joe Flacco</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In what team&apos;s stadium was Super Bowl XLVI played?</string>
+			<key>answer1</key>
+			<string>New England Patriots</string>
+			<key>answer2</key>
+			<string>Dallas Cowboys</string>
+			<key>answer3</key>
+			<string>Indianapolis Colts</string>
+			<key>answer4</key>
+			<string>New York Giants</string>
+			<key>correct</key>
+			<string>Indianapolis Colts</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How did the first points get scored in the game?</string>
+			<key>answer1</key>
+			<string>Field Goal</string>
+			<key>answer2</key>
+			<string>Interception</string>
+			<key>answer3</key>
+			<string>Touchdown</string>
+			<key>answer4</key>
+			<string>Safety</string>
+			<key>correct</key>
+			<string>Safety</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many points were scored in the first half?</string>
+			<key>answer1</key>
+			<string>27</string>
+			<key>answer2</key>
+			<string>9</string>
+			<key>answer3</key>
+			<string>31</string>
+			<key>answer4</key>
+			<string>19</string>
+			<key>correct</key>
+			<string>19</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score at halftime?</string>
+			<key>answer1</key>
+			<string>Patriots 10-9</string>
+			<key>answer2</key>
+			<string>Giants 17-14</string>
+			<key>answer3</key>
+			<string>Giants 10-9</string>
+			<key>answer4</key>
+			<string>Patriots 21-6</string>
+			<key>correct</key>
+			<string>Patriots 10-9</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many yards did the Giants have from scrimmage?</string>
+			<key>answer1</key>
+			<string>296</string>
+			<key>answer2</key>
+			<string>276</string>
+			<key>answer3</key>
+			<string>349</string>
+			<key>answer4</key>
+			<string>396</string>
+			<key>correct</key>
+			<string>396</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who won the Super Bowl MVP award?</string>
+			<key>answer1</key>
+			<string>Eli Manning</string>
+			<key>answer2</key>
+			<string>Wes Welker</string>
+			<key>answer3</key>
+			<string>Tom Brady</string>
+			<key>answer4</key>
+			<string>Mario Manningham</string>
+			<key>correct</key>
+			<string>Eli Manning</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who sang the National Anthem?</string>
+			<key>answer1</key>
+			<string>Jordin Sparks</string>
+			<key>answer2</key>
+			<string>Kelly Clarkson</string>
+			<key>answer3</key>
+			<string>Carrie Underwood</string>
+			<key>answer4</key>
+			<string>Christina Aguilera</string>
+			<key>correct</key>
+			<string>Kelly Clarkson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>It was a very exciting game. The Packers jumped out to an early lead and Pittsburgh rallied back. What was the final score of Super Bowl XLV?</string>
+			<key>answer1</key>
+			<string>Pittsburgh 21, Green Bay 20</string>
+			<key>answer2</key>
+			<string>Green Bay 21, Pittsburgh 20</string>
+			<key>answer3</key>
+			<string>Green Bay 31, Pittsburgh 25</string>
+			<key>answer4</key>
+			<string>Pittsburgh 31, Green Bay 25</string>
+			<key>correct</key>
+			<string>Green Bay 31, Pittsburgh 25</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which teams offense scored more in Super Bowl XLV? (Extra points after touchdowns count as offensive points.)</string>
+			<key>answer1</key>
+			<string>Green Bay Packers</string>
+			<key>answer2</key>
+			<string>Tampa Bay Buccaneers</string>
+			<key>answer3</key>
+			<string>Pittsburgh Steelers</string>
+			<key>answer4</key>
+			<string>Tie</string>
+			<key>correct</key>
+			<string>Tie</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>This player born in Kalamazoo, Michigan in 1983, scored the most touchdowns in Super Bowl XLV. Name him.</string>
+			<key>answer1</key>
+			<string>Jordy Nelson</string>
+			<key>answer2</key>
+			<string>Mike Wallace</string>
+			<key>answer3</key>
+			<string>Rashard Mendenhall</string>
+			<key>answer4</key>
+			<string>Greg Jennings</string>
+			<key>correct</key>
+			<string>Greg Jennings</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player scored a touchdown on an interception return in Super Bowl XLV? He was drafted in round two of the N.F.L draft in 2005. He attended Bethune-Cookman University.</string>
+			<key>answer1</key>
+			<string>Nick Collins</string>
+			<key>answer2</key>
+			<string>James Harrison</string>
+			<key>answer3</key>
+			<string>Charles Woodson</string>
+			<key>answer4</key>
+			<string>Troy Polamalu</string>
+			<key>correct</key>
+			<string>Nick Collins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player won Super Bowl MVP in Super Bowl XLV? He was born in 1983 and played for the California Golden Bears in college.</string>
+			<key>answer1</key>
+			<string>Jordy Nelson</string>
+			<key>answer2</key>
+			<string>Ben Roethlisberger</string>
+			<key>answer3</key>
+			<string>Greg Jennings</string>
+			<key>answer4</key>
+			<string>Aaron Rodgers</string>
+			<key>correct</key>
+			<string>Aaron Rodgers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>It was unseasonably cold the week leading up to the game. This caused a lot of travel problems for fans. Where was Super Bowl XLV played?</string>
+			<key>answer1</key>
+			<string>Arlington, Texas</string>
+			<key>answer2</key>
+			<string>Tampa Bay, Florida</string>
+			<key>answer3</key>
+			<string>New York, New York</string>
+			<key>answer4</key>
+			<string>Miami, Florida</string>
+			<key>correct</key>
+			<string>Arlington, Texas</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which receiver had the most receiving yards in Super Bowl XLV? He was born in 1985 in Manhattan, Kansas and attended Kansas State College.</string>
+			<key>answer1</key>
+			<string>Greg Jennings</string>
+			<key>answer2</key>
+			<string>Jordy Nelson</string>
+			<key>answer3</key>
+			<string>Mike Wallace</string>
+			<key>answer4</key>
+			<string>Donald Driver</string>
+			<key>correct</key>
+			<string>Jordy Nelson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player had the most yards rushing in Super Bowl XLV? He was a first round draft choice and born in Illinois.</string>
+			<key>answer1</key>
+			<string>Aaron Rodgers</string>
+			<key>answer2</key>
+			<string>Rashard Mendenhall</string>
+			<key>answer3</key>
+			<string>James Starks</string>
+			<key>answer4</key>
+			<string>Ben Roethlisberger</string>
+			<key>correct</key>
+			<string>Rashard Mendenhall</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which singer sang the National anthem at Super Bowl XLV? She was born in 1980, on Staten Island, New York.</string>
+			<key>answer1</key>
+			<string>Faith Hill</string>
+			<key>answer2</key>
+			<string>Britney Spears</string>
+			<key>answer3</key>
+			<string>Christina Aguilera</string>
+			<key>answer4</key>
+			<string>Madonna</string>
+			<key>correct</key>
+			<string>Christina Aguilera</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which city served as the host of Super Bowl XXXIV?</string>
+			<key>answer1</key>
+			<string>Atlanta</string>
+			<key>answer2</key>
+			<string>Miami</string>
+			<key>answer3</key>
+			<string>New Orleans</string>
+			<key>answer4</key>
+			<string>Pasadena</string>
+			<key>correct</key>
+			<string>Atlanta</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The St. Louis Rams represented the National Football Conference in Super Bowl XXXIV. Which team did they defeat to win the Conference Championship and qualify for the Super Bowl?</string>
+			<key>answer1</key>
+			<string>Tampa Bay Buccaneers</string>
+			<key>answer2</key>
+			<string>Green Bay Packers</string>
+			<key>answer3</key>
+			<string>Atlanta Falcons</string>
+			<key>answer4</key>
+			<string>Dallas Cowboys</string>
+			<key>correct</key>
+			<string>Tampa Bay Buccaneers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Tennessee Titans represented the American Football Conference in Super Bowl XXXIV. Which of the following statements about that Titans team is false?</string>
+			<key>answer1</key>
+			<string>The Titans made Super Bowl XXXIV as a wild card</string>
+			<key>answer2</key>
+			<string>The Titans defeated the Miami Dolphins in the AFC Championship Game</string>
+			<key>answer3</key>
+			<string>Super Bowl XXXIV was the Titans&apos; first Super Bowl appearance</string>
+			<key>answer4</key>
+			<string>The Titans were the second team in Super Bowl history to start an African-American quarterback</string>
+			<key>correct</key>
+			<string>The Titans defeated the Miami Dolphins in the AFC Championship Game</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Rams drew first blood in Super Bowl XXXIV, scoring on a 27-yard field goal in the first quarter. Who handled the placekicking duties for St. Louis in this game?</string>
+			<key>answer1</key>
+			<string>Olindo Mare</string>
+			<key>answer2</key>
+			<string>Matt Stover</string>
+			<key>answer3</key>
+			<string>Jeff Wilkins</string>
+			<key>answer4</key>
+			<string>Chip Lohmiller</string>
+			<key>correct</key>
+			<string>Jeff Wilkins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Rams opened up a 16-0 lead in the third quarter, when Kurt Warner hit which player for a nine-yard touchdown pass?</string>
+			<key>answer1</key>
+			<string>Ricky Proehl</string>
+			<key>answer2</key>
+			<string>Isaac Bruce</string>
+			<key>answer3</key>
+			<string>Torry Holt</string>
+			<key>answer4</key>
+			<string>Marshall Faulk</string>
+			<key>correct</key>
+			<string>Torry Holt</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Titans refused to go down quietly, scoring 16 unanswered points and tying the game in the fourth quarter. Which Tennessee star scored two touchdowns to get the team back in the game?</string>
+			<key>answer1</key>
+			<string>Kevin Dyson</string>
+			<key>answer2</key>
+			<string>Frank Wycheck</string>
+			<key>answer3</key>
+			<string>Isaac Byrd</string>
+			<key>answer4</key>
+			<string>Eddie George</string>
+			<key>correct</key>
+			<string>Eddie George</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>After Tennessee tied Super Bowl XXXIV, St. Louis quickly regained the lead when Kurt Warner hit which wide receiver on a 73-yard touchdown pass?</string>
+			<key>answer1</key>
+			<string>Ricky Proehl</string>
+			<key>answer2</key>
+			<string>Az-Zahir Hakim</string>
+			<key>answer3</key>
+			<string>Isaac Bruce</string>
+			<key>answer4</key>
+			<string>Gary Clark</string>
+			<key>correct</key>
+			<string>Isaac Bruce</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The last play of Super Bowl XXXIV was one of the most dramatic moments in sports history. Which Titans player was tackled with the football just one yard short of a touchdown that could have led to a tie or a win in regulation?</string>
+			<key>answer1</key>
+			<string>Frank Wycheck</string>
+			<key>answer2</key>
+			<string>Kevin Dyson</string>
+			<key>answer3</key>
+			<string>Eddie George</string>
+			<key>answer4</key>
+			<string>Jackie Harris</string>
+			<key>correct</key>
+			<string>Kevin Dyson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which Rams defender made the tackle that prevented the Titans from scoring the touchdown that could&apos;ve won Super Bowl XXXIV?</string>
+			<key>answer1</key>
+			<string>London Fletcher</string>
+			<key>answer2</key>
+			<string>Ray Agnew</string>
+			<key>answer3</key>
+			<string>Mike Jones</string>
+			<key>answer4</key>
+			<string>Dexter McCleon</string>
+			<key>correct</key>
+			<string>Mike Jones</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Several key Bills players missed all or much of the game due to injury. Who is the only player below who played the entire game?</string>
+			<key>answer1</key>
+			<string>Bruce Smith</string>
+			<key>answer2</key>
+			<string>Thurman Thomas</string>
+			<key>answer3</key>
+			<string>Jim Kelly</string>
+			<key>answer4</key>
+			<string>Cornelius Bennett</string>
+			<key>correct</key>
+			<string>Bruce Smith</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many times, and by what score(s), did the Bills lead the Oilers in the game?</string>
+			<key>answer1</key>
+			<string>Twice, 38-35 and 41-38</string>
+			<key>answer2</key>
+			<string>Once, 41-38</string>
+			<key>answer3</key>
+			<string>Twice, 3-0 and 41-38</string>
+			<key>answer4</key>
+			<string>Twice, 35-31 and 41-38</string>
+			<key>correct</key>
+			<string>Twice, 38-35 and 41-38</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How did the Oilers score their final touchdown before the Bills began their comeback?</string>
+			<key>answer1</key>
+			<string>44-yard pass</string>
+			<key>answer2</key>
+			<string>Interception return</string>
+			<key>answer3</key>
+			<string>Punt return</string>
+			<key>answer4</key>
+			<string>76-yard drive that ate up much of the third quarter</string>
+			<key>correct</key>
+			<string>Interception return</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored Buffalo&apos;s first touchdown in the game?</string>
+			<key>answer1</key>
+			<string>Nate Odomes</string>
+			<key>answer2</key>
+			<string>Carwell Gardner</string>
+			<key>answer3</key>
+			<string>Kenneth Davis</string>
+			<key>answer4</key>
+			<string>Frank Reich</string>
+			<key>correct</key>
+			<string>Kenneth Davis</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>After the Bills scored their first touchdown, who recovered their onside kick?</string>
+			<key>answer1</key>
+			<string>The Oilers</string>
+			<key>answer2</key>
+			<string>Receiver James Lofton</string>
+			<key>answer3</key>
+			<string>Kicker Steve Christie</string>
+			<key>answer4</key>
+			<string>Special teamer Steve Tasker</string>
+			<key>correct</key>
+			<string>Kicker Steve Christie</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which Bills player scored three consecutive touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>James Lofton</string>
+			<key>answer2</key>
+			<string>Pete Metzalars</string>
+			<key>answer3</key>
+			<string>Don Beebe</string>
+			<key>answer4</key>
+			<string>Andre Reed</string>
+			<key>correct</key>
+			<string>Andre Reed</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the Oilers&apos; quarterback in the game, who had one of his best days as a pro, including being 19 of 22 with four touchdowns in the first half?</string>
+			<key>answer1</key>
+			<string>Chris Chandler</string>
+			<key>answer2</key>
+			<string>Cody Carlson</string>
+			<key>answer3</key>
+			<string>Warren Moon</string>
+			<key>answer4</key>
+			<string>Steve McNair</string>
+			<key>correct</key>
+			<string>Warren Moon</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How did the Bills get the ball in overtime to kick the winning field goal?</string>
+			<key>answer1</key>
+			<string>Houston missed a 38-yard-field goal attempt</string>
+			<key>answer2</key>
+			<string>They won the overtime coin toss</string>
+			<key>answer3</key>
+			<string>An interception</string>
+			<key>answer4</key>
+			<string>They blocked a Houston punt</string>
+			<key>correct</key>
+			<string>An interception</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The game set a new NFL record for biggest comeback. Which existing playoff record did it tie?</string>
+			<key>answer1</key>
+			<string>Most fourth-quarter points by one team</string>
+			<key>answer2</key>
+			<string>Most total yards by both teams</string>
+			<key>answer3</key>
+			<string>Most total points by both teams</string>
+			<key>answer4</key>
+			<string>Most first downs by one team</string>
+			<key>correct</key>
+			<string>Most first downs by one team</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In the first quarter of the game, both teams had successfully stopped each other once. On the Buffalo Bills&apos; second possession, Titans defensive end Jevon Kearse sacked quarterback Rob Johnson on first down at the Buffalo 36-yard line. The hit caused a fumble that the Titans recovered. Who recovered the fumble?</string>
+			<key>answer1</key>
+			<string>Barron Wortham</string>
+			<key>answer2</key>
+			<string>Dainon Sidney</string>
+			<key>answer3</key>
+			<string>Samari Rolle</string>
+			<key>answer4</key>
+			<string>Blaine Bishop</string>
+			<key>correct</key>
+			<string>Barron Wortham</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>After the Titans&apos; fumble recovery, they had the ball at the Bills 29-yard line. After three downs, Titans kicker Al Del Greco attempted and missed his first field goal try of the game. How long was the attempted field goal?</string>
+			<key>answer1</key>
+			<string>43 yards</string>
+			<key>answer2</key>
+			<string>25 yards</string>
+			<key>answer3</key>
+			<string>31 yards</string>
+			<key>answer4</key>
+			<string>49 yards</string>
+			<key>correct</key>
+			<string>43 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Bills were moving and had advanced the ball into Titans territory. However, on third and 18, the drive was killed when quarterback Rob Johnson was sacked for a two-yard loss. Which Titan got the sack?</string>
+			<key>answer1</key>
+			<string>John Thornton</string>
+			<key>answer2</key>
+			<string>Samari Rolle</string>
+			<key>answer3</key>
+			<string>Eddie Robinson</string>
+			<key>answer4</key>
+			<string>Jason Fisk</string>
+			<key>correct</key>
+			<string>Samari Rolle</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How did the Tennessee Titans score the first points of the game?</string>
+			<key>answer1</key>
+			<string>A fumble recovery for touchdown by Kenny Holmes</string>
+			<key>answer2</key>
+			<string>A field goal by Al Del Greco</string>
+			<key>answer3</key>
+			<string>A safety by the Titans defense</string>
+			<key>answer4</key>
+			<string>A punt return for a touchdown by Derrick Mason</string>
+			<key>correct</key>
+			<string>A safety by the Titans defense</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Tennessee Titans scored the first offensive touchdown of the game late in the second quarter. Who scored this touchdown?</string>
+			<key>answer1</key>
+			<string>Kevin Dyson</string>
+			<key>answer2</key>
+			<string>Eddie George</string>
+			<key>answer3</key>
+			<string>Steve McNair</string>
+			<key>answer4</key>
+			<string>Frank Wycheck</string>
+			<key>correct</key>
+			<string>Steve McNair</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score of the game at halftime?</string>
+			<key>answer1</key>
+			<string>12--3</string>
+			<key>answer2</key>
+			<string>10--3</string>
+			<key>answer3</key>
+			<string>10--0</string>
+			<key>answer4</key>
+			<string>12--0</string>
+			<key>correct</key>
+			<string>12--0</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Buffalo Bills struck quickly in the third quarter with a touchdown score. Who scored the touchdown for the Bills?</string>
+			<key>answer1</key>
+			<string>Thurman Thomas</string>
+			<key>answer2</key>
+			<string>Eric Moulds</string>
+			<key>answer3</key>
+			<string>Antowain Smith</string>
+			<key>answer4</key>
+			<string>Peerless Price</string>
+			<key>correct</key>
+			<string>Antowain Smith</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>After scoring two touchdowns in the game, the Bills had their first lead. After successful stops by both defenses, the Titans got the ball back late in the fourth quarter. In a weird play, quarterback Steve McNair threw a pass which went off of Bills&apos; linebacker John Holecek&apos;s arm. Luckily for the Titans, the ball took a favorable bounce and landed in the hands of which Titans player?</string>
+			<key>answer1</key>
+			<string>Kevin Dyson</string>
+			<key>answer2</key>
+			<string>Frank Wycheck</string>
+			<key>answer3</key>
+			<string>Derrick Mason</string>
+			<key>answer4</key>
+			<string>Eddie George</string>
+			<key>correct</key>
+			<string>Frank Wycheck</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>After a clutch field goal by kicker Steve Christie, the Bills were winning the game by one point. With 16 seconds left in the game, Christie kicked the ball off to the Titans. Fullback Lorenzo Neal caught the ball, who handed the ball to tight end Frank Wycheck. Wycheck lateraled the ball towards the sideline to Kevin Dyson, who had a wall of Titan blockers ahead of him and ran the ball down the field to score the touchdown. This amazing turn of events was later known as the Music City Miracle. How many yards did Kevin Dyson run for the touchdown?</string>
+			<key>answer1</key>
+			<string>80 yards</string>
+			<key>answer2</key>
+			<string>65 yards</string>
+			<key>answer3</key>
+			<string>75 yards</string>
+			<key>answer4</key>
+			<string>70 yards</string>
+			<key>correct</key>
+			<string>75 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many seconds were left on the clock after the game-winning touchdown return by Kevin Dyson?</string>
+			<key>answer1</key>
+			<string>58 Seconds</string>
+			<key>answer2</key>
+			<string>47 seconds</string>
+			<key>answer3</key>
+			<string>3 seconds</string>
+			<key>answer4</key>
+			<string>25 Second</string>
+			<key>correct</key>
+			<string>3 seconds</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Where was this game played?</string>
+			<key>answer1</key>
+			<string>Tampa</string>
+			<key>answer2</key>
+			<string>Pasadena</string>
+			<key>answer3</key>
+			<string>New Orleans</string>
+			<key>answer4</key>
+			<string>Houston</string>
+			<key>correct</key>
+			<string>Tampa</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What unusual scoring happened to account for the final 20-19 outcome?</string>
+			<key>answer1</key>
+			<string>The Bills scored a safety</string>
+			<key>answer2</key>
+			<string>Both of these</string>
+			<key>answer3</key>
+			<string>The Giants missed an extra point</string>
+			<key>answer4</key>
+			<string>Neither of these</string>
+			<key>correct</key>
+			<string>The Bills scored a safety</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Including the first points scored in the game, how many times did the lead change hands, or a team break a tie by scoring?</string>
+			<key>answer1</key>
+			<string>2</string>
+			<key>answer2</key>
+			<string>5</string>
+			<key>answer3</key>
+			<string>3</string>
+			<key>answer4</key>
+			<string>7</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Why did Jeff Hostetler start this Super Bowl game at quarterback for the Giants, instead of Phil Simms?</string>
+			<key>answer1</key>
+			<string>Hostetler had been the Giants&apos; starting quarterback all season</string>
+			<key>answer2</key>
+			<string>Simms had retired before the start of the season</string>
+			<key>answer3</key>
+			<string>Simms had been injured during the regular season</string>
+			<key>answer4</key>
+			<string>Coach Bill Parcells had benched Simms for calling his own plays</string>
+			<key>correct</key>
+			<string>Simms had been injured during the regular season</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The statistics for this Super Bowl were very close in most categories with two exceptions. One was time of possession. The Giants controlled the ball for more than twice the time the Bills had it. What was the other statistical category in which the Giants had an overwhelming edge over the Bills?</string>
+			<key>answer1</key>
+			<string>Turnovers</string>
+			<key>answer2</key>
+			<string>Yards penalized</string>
+			<key>answer3</key>
+			<string>Third down efficiency</string>
+			<key>answer4</key>
+			<string>Passing yards</string>
+			<key>correct</key>
+			<string>Third down efficiency</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the game&apos;s leading rusher?</string>
+			<key>answer1</key>
+			<string>Jamie Mueller</string>
+			<key>answer2</key>
+			<string>Dave Meggett</string>
+			<key>answer3</key>
+			<string>Ottis Anderson</string>
+			<key>answer4</key>
+			<string>Thurman Thomas</string>
+			<key>correct</key>
+			<string>Thurman Thomas</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who led all players in receiving yards in this Super Bowl?</string>
+			<key>answer1</key>
+			<string>James Lofton</string>
+			<key>answer2</key>
+			<string>Andre Reed</string>
+			<key>answer3</key>
+			<string>Mark Ingram</string>
+			<key>answer4</key>
+			<string>Thurman Thomas</string>
+			<key>correct</key>
+			<string>Mark Ingram</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The players wore U.S. flags on their helmets, and there were several more noticeable signs of U.S. national pride at this game than the previous Super Bowl XXIV. Why?</string>
+			<key>answer1</key>
+			<string>The previous Super Bowl had a controversial rendition of the U.S. National Anthem by Prince</string>
+			<key>answer2</key>
+			<string>The 1991 Gulf war had just begun</string>
+			<key>answer3</key>
+			<string>NFL commissioner Paul Tagliabue thought it was a clever way to compliment the red, white, and blue colors in both teams&apos; uniforms</string>
+			<key>answer4</key>
+			<string>US President George Bush had complained that NFL players were poor role models for children</string>
+			<key>correct</key>
+			<string>The 1991 Gulf war had just begun</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Trailing by one point, the Bills began their final drive from their own 10 yard line, with 2:16 left in the game and one remaining time out. They used eight plays to drive 61 yards. How many of these plays were running plays?</string>
+			<key>answer1</key>
+			<string>7</string>
+			<key>answer2</key>
+			<string>0</string>
+			<key>answer3</key>
+			<string>5</string>
+			<key>answer4</key>
+			<string>2</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>For most fans, this Super Bowl was best remembered for Scott Norwood&apos;s wide right field goal attempt from 47 yards. During the 1990 regular season, how many field goals did Norwood make and attempt from 40-49 yards?</string>
+			<key>answer1</key>
+			<string>None - his longest field goal attempt that season was 39 yards</string>
+			<key>answer2</key>
+			<string>4 field goals in 5 tries</string>
+			<key>answer3</key>
+			<string>6 field goals in 10 tries</string>
+			<key>answer4</key>
+			<string>3 field goals in 9 tries</string>
+			<key>correct</key>
+			<string>6 field goals in 10 tries</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who played in Super Bowl XXXII?</string>
+			<key>answer1</key>
+			<string>Denver Broncos and Green Bay Packers</string>
+			<key>answer2</key>
+			<string>Denver Broncos and Atlanta Falcons</string>
+			<key>answer3</key>
+			<string>Green Bay Packers and New England Patriots</string>
+			<key>answer4</key>
+			<string>Pittsburgh Steelers and San Francisco 49ers</string>
+			<key>correct</key>
+			<string>Denver Broncos and Green Bay Packers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Where was the Super Bowl played?</string>
+			<key>answer1</key>
+			<string>Qualcomm Stadium-San Diego, CA</string>
+			<key>answer2</key>
+			<string>Pro Player Stadium-Miami, FL</string>
+			<key>answer3</key>
+			<string>Rose Bowl-Pasadena, CA</string>
+			<key>answer4</key>
+			<string>Superdome-New Orleans, LA</string>
+			<key>correct</key>
+			<string>Qualcomm Stadium-San Diego, CA</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score of Super Bowl XXXII?</string>
+			<key>answer1</key>
+			<string>Packers 31-Broncos 24</string>
+			<key>answer2</key>
+			<string>Broncos 31-Packers 24</string>
+			<key>answer3</key>
+			<string>Broncos 24-Packers 20</string>
+			<key>answer4</key>
+			<string>Packers 24-Broncos 20</string>
+			<key>correct</key>
+			<string>Broncos 31-Packers 24</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored the first points in the game?</string>
+			<key>answer1</key>
+			<string>Jason Elam</string>
+			<key>answer2</key>
+			<string>Terrell Davis</string>
+			<key>answer3</key>
+			<string>Antonio Freeman</string>
+			<key>answer4</key>
+			<string>Brett Favre</string>
+			<key>correct</key>
+			<string>Antonio Freeman</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored the winning touchdown and won Super Bowl MVP honors?</string>
+			<key>answer1</key>
+			<string>Bret Favre</string>
+			<key>answer2</key>
+			<string>Shannon Sharpe</string>
+			<key>answer3</key>
+			<string>Terrell Davis</string>
+			<key>answer4</key>
+			<string>Mark Chmura</string>
+			<key>correct</key>
+			<string>Terrell Davis</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many touchdowns did the MVP run for?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>4</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the Vegas betting line on this Super Bowl?</string>
+			<key>answer1</key>
+			<string>Broncos by 10</string>
+			<key>answer2</key>
+			<string>Packers by 3</string>
+			<key>answer3</key>
+			<string>Packers by 12</string>
+			<key>answer4</key>
+			<string>Broncos by 6</string>
+			<key>correct</key>
+			<string>Packers by 12</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who knocked down the ball on the last play of the game, effectively giving his team the victory?</string>
+			<key>answer1</key>
+			<string>Reggie White</string>
+			<key>answer2</key>
+			<string>John Mobley</string>
+			<key>answer3</key>
+			<string>Bill Romanowski</string>
+			<key>answer4</key>
+			<string>Gilbert Brown</string>
+			<key>correct</key>
+			<string>John Mobley</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was that ball thrown to on the last pass play of the game?</string>
+			<key>answer1</key>
+			<string>Ed McCaffery</string>
+			<key>answer2</key>
+			<string>Antonio Freeman</string>
+			<key>answer3</key>
+			<string>Mark Chmura</string>
+			<key>answer4</key>
+			<string>Shannon Sharpe</string>
+			<key>correct</key>
+			<string>Mark Chmura</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the offensive coordinator of the winning team?</string>
+			<key>answer1</key>
+			<string>Jon Gruden</string>
+			<key>answer2</key>
+			<string>Mike Shanahan</string>
+			<key>answer3</key>
+			<string>Gary Kubiak</string>
+			<key>answer4</key>
+			<string>Greg Robinson</string>
+			<key>correct</key>
+			<string>Gary Kubiak</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the MVP of Super Bowl XXIX?</string>
+			<key>answer1</key>
+			<string>Steve Young</string>
+			<key>answer2</key>
+			<string>Jerry Rice</string>
+			<key>answer3</key>
+			<string>Stan Humphries</string>
+			<key>answer4</key>
+			<string>Natrone Means</string>
+			<key>correct</key>
+			<string>Steve Young</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who had the most rushing yards in the game?</string>
+			<key>answer1</key>
+			<string>Steve Young</string>
+			<key>answer2</key>
+			<string>Natrone Means</string>
+			<key>answer3</key>
+			<string>Ricky Watters</string>
+			<key>answer4</key>
+			<string>Jerry Rice</string>
+			<key>correct</key>
+			<string>Steve Young</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many TOTAL TD&apos;s were thrown during the Super Bowl among both teams?</string>
+			<key>answer1</key>
+			<string>5</string>
+			<key>answer2</key>
+			<string>7</string>
+			<key>answer3</key>
+			<string>6</string>
+			<key>answer4</key>
+			<string>8</string>
+			<key>correct</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many passing yards did Steve Young throw for?</string>
+			<key>answer1</key>
+			<string>345</string>
+			<key>answer2</key>
+			<string>313</string>
+			<key>answer3</key>
+			<string>325</string>
+			<key>answer4</key>
+			<string>332</string>
+			<key>correct</key>
+			<string>325</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who had the longest pass reception among both teams?</string>
+			<key>answer1</key>
+			<string>Natrone Means</string>
+			<key>answer2</key>
+			<string>Jerry Rice</string>
+			<key>answer3</key>
+			<string>Ricky Watters</string>
+			<key>answer4</key>
+			<string>John Taylor</string>
+			<key>correct</key>
+			<string>Ricky Watters</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many combined passing yards were there in the game?</string>
+			<key>answer1</key>
+			<string>680</string>
+			<key>answer2</key>
+			<string>595</string>
+			<key>answer3</key>
+			<string>555</string>
+			<key>answer4</key>
+			<string>600</string>
+			<key>correct</key>
+			<string>600</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Between Young and Humphries, how many combined pass attempts did they throw?</string>
+			<key>answer1</key>
+			<string>90</string>
+			<key>answer2</key>
+			<string>80</string>
+			<key>answer3</key>
+			<string>85</string>
+			<key>answer4</key>
+			<string>75</string>
+			<key>correct</key>
+			<string>85</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many receiving yards did Jerry Rice have?</string>
+			<key>answer1</key>
+			<string>131</string>
+			<key>answer2</key>
+			<string>149</string>
+			<key>answer3</key>
+			<string>142</string>
+			<key>answer4</key>
+			<string>153</string>
+			<key>correct</key>
+			<string>149</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many QB&apos;s for the 49ers attempted at least one pass?</string>
+			<key>answer1</key>
+			<string>4</string>
+			<key>answer2</key>
+			<string>2</string>
+			<key>answer3</key>
+			<string>3</string>
+			<key>answer4</key>
+			<string>1</string>
+			<key>correct</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Of the starters in this Super Bowl, how many of the 49ers starters played for the 49ers in 2003/04?</string>
+			<key>answer1</key>
+			<string>5</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>4</string>
+			<key>correct</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Deion Sanders was a starting CB in this Super Bowl for the 49ers. How many more seasons did he spend with the 49ers?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>0</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score after the first quarter?</string>
+			<key>answer1</key>
+			<string>10-7.</string>
+			<key>answer2</key>
+			<string>14-7.</string>
+			<key>answer3</key>
+			<string>7-3.</string>
+			<key>answer4</key>
+			<string>14-3.</string>
+			<key>correct</key>
+			<string>14-7.</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score at halftime?</string>
+			<key>answer1</key>
+			<string>27-7.</string>
+			<key>answer2</key>
+			<string>24-9.</string>
+			<key>answer3</key>
+			<string>30-13.</string>
+			<key>answer4</key>
+			<string>28-10</string>
+			<key>correct</key>
+			<string>28-10</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score after the third quarter?</string>
+			<key>answer1</key>
+			<string>34-10.</string>
+			<key>answer2</key>
+			<string>35-14.</string>
+			<key>answer3</key>
+			<string>42-18</string>
+			<key>answer4</key>
+			<string>38--17</string>
+			<key>correct</key>
+			<string>42-18</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the final score of Super Bowl XXIX?</string>
+			<key>answer1</key>
+			<string>48-26.</string>
+			<key>answer2</key>
+			<string>50-27.</string>
+			<key>answer3</key>
+			<string>49-26.</string>
+			<key>answer4</key>
+			<string>49-27.</string>
+			<key>correct</key>
+			<string>49-26.</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>This was the Cowboys&apos; seventh consecutive season making the NFL playoffs, a new record at the time. The 49ers were appearing for the third year in a row. How were they eliminated from the playoffs those two previous seasons?</string>
+			<key>answer1</key>
+			<string>Lost to the Cowboys in 1970 and the Redskins in 1971</string>
+			<key>answer2</key>
+			<string>Lost to the Vikings in 1970 and the Cowboys in 1971</string>
+			<key>answer3</key>
+			<string>Lost to the Cowboys both years</string>
+			<key>answer4</key>
+			<string>Lost to the Cowboys in 1970 and the Vikings in 1971</string>
+			<key>correct</key>
+			<string>Lost to the Cowboys both years</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Both teams had ample talent in their lineups. Many of the 1972 Cowboys went on to the Pro Football Hall of Fame. Of the 1972 49ers listed below, who was the first one elected to the Hall?</string>
+			<key>answer1</key>
+			<string>Jimmy Johnson</string>
+			<key>answer2</key>
+			<string>Ken Willard</string>
+			<key>answer3</key>
+			<string>Gene Washington</string>
+			<key>answer4</key>
+			<string>John Brodie</string>
+			<key>correct</key>
+			<string>Jimmy Johnson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Cowboys, defending Super Bowl champions in 1972, had two players on their roster who later took teams to the Super Bowl as head coach. Who were they?</string>
+			<key>answer1</key>
+			<string>Mike Ditka &amp; Dan Reeves</string>
+			<key>answer2</key>
+			<string>Jeff Fischer &amp; Mike Shanahan</string>
+			<key>answer3</key>
+			<string>Bill Cowher &amp; Forrest Gregg</string>
+			<key>answer4</key>
+			<string>Bill Callahan &amp; Sam Wyche</string>
+			<key>correct</key>
+			<string>Mike Ditka &amp; Dan Reeves</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who were the starting quarterbacks for the two teams in this 1972 game?</string>
+			<key>answer1</key>
+			<string>Craig Morton &amp; John Brodie</string>
+			<key>answer2</key>
+			<string>Roger Staubach &amp; John Brodie</string>
+			<key>answer3</key>
+			<string>Craig Morton &amp; Steve Spurrier</string>
+			<key>answer4</key>
+			<string>Roger Staubach &amp; Steve Spurrier</string>
+			<key>correct</key>
+			<string>Craig Morton &amp; John Brodie</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the coach of the 49ers in 1972?</string>
+			<key>answer1</key>
+			<string>Jack Christiansen</string>
+			<key>answer2</key>
+			<string>Monte Clark</string>
+			<key>answer3</key>
+			<string>Dick Nolan</string>
+			<key>answer4</key>
+			<string>Bill Walsh</string>
+			<key>correct</key>
+			<string>Dick Nolan</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the widest margin by which the Cowboys trailed in this game before beginning their comeback?</string>
+			<key>answer1</key>
+			<string>28-13.</string>
+			<key>answer2</key>
+			<string>21-3.</string>
+			<key>answer3</key>
+			<string>28-7.</string>
+			<key>answer4</key>
+			<string>28-16.</string>
+			<key>correct</key>
+			<string>21-3.</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>San Francisco running back Larry Schreiber accounted for three of the 49ers&apos; four touchdowns, each on a one-yard run. How did they score their other touchdown?</string>
+			<key>answer1</key>
+			<string>Vic Washington ran the opening kickoff back 97 yards</string>
+			<key>answer2</key>
+			<string>Gene Washington caught a 17-yard pass from John Brodie</string>
+			<key>answer3</key>
+			<string>Vic Washington caught a 17-yard pass from John Brodie</string>
+			<key>answer4</key>
+			<string>Gene Washington caught a 17-yard option pass from Vic Washington</string>
+			<key>correct</key>
+			<string>Vic Washington ran the opening kickoff back 97 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>After the Cowboys scored to come within 28-23, what happened on the ensuing onside kick?</string>
+			<key>answer1</key>
+			<string>The 49ers fumbled the kickoff</string>
+			<key>answer2</key>
+			<string>Both of these</string>
+			<key>answer3</key>
+			<string>The Cowboys faked kicking left, then kicked right</string>
+			<key>answer4</key>
+			<string>Neither of these</string>
+			<key>correct</key>
+			<string>Both of these</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored the Cowboys&apos; winning touchdown?</string>
+			<key>answer1</key>
+			<string>Calvin Hill</string>
+			<key>answer2</key>
+			<string>Lance Alworth</string>
+			<key>answer3</key>
+			<string>Walt Garrison</string>
+			<key>answer4</key>
+			<string>Ron Sellers</string>
+			<key>correct</key>
+			<string>Ron Sellers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What other event, perhaps more notable than this game, had occurred earlier that day?</string>
+			<key>answer1</key>
+			<string>Former US President Harry Truman passed away</string>
+			<key>answer2</key>
+			<string>Baseball legend Roberto Clemente died in a plane crash</string>
+			<key>answer3</key>
+			<string>The Pittsburgh Steelers defeated the Oakland Raiders on the famous Immaculate Reception</string>
+			<key>answer4</key>
+			<string>Apollo 17, the final US lunar mission, landed on the moon</string>
+			<key>correct</key>
+			<string>The Pittsburgh Steelers defeated the Oakland Raiders on the famous Immaculate Reception</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1975 divisional playoff, the Los Angeles Rams defeated the St. Louis Cardinals 35-23. Which Rams&apos; running back set a NFC playoff record by rushing for 202 yards in the game?</string>
+			<key>answer1</key>
+			<string>Lawrence McCutcheon</string>
+			<key>answer2</key>
+			<string>John Cappellitti</string>
+			<key>answer3</key>
+			<string>Cullen Bryant</string>
+			<key>answer4</key>
+			<string>Rod Phillips</string>
+			<key>correct</key>
+			<string>Lawrence McCutcheon</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1975 divisional playoff, the Dallas Cowboys defeated the Minnesota Vikings in the infamous Hail Mary play when Roger Staubach hit Drew Pearson with a long pass for a touchdown with 24 seconds left. How long was this winning touchdown pass?</string>
+			<key>answer1</key>
+			<string>50 yards</string>
+			<key>answer2</key>
+			<string>42 yards</string>
+			<key>answer3</key>
+			<string>65 yards</string>
+			<key>answer4</key>
+			<string>57 yards</string>
+			<key>correct</key>
+			<string>50 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Dallas Cowboys won the 1975 NFC Championship with a 37-7 victory over the Los Angeles Rams. Which Cowboys&apos; player caught three touchdown passes in the game?</string>
+			<key>answer1</key>
+			<string>Drew Pearson</string>
+			<key>answer2</key>
+			<string>Preston Pearson</string>
+			<key>answer3</key>
+			<string>Golden Richards</string>
+			<key>answer4</key>
+			<string>Robert Newhouse</string>
+			<key>correct</key>
+			<string>Preston Pearson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1976 NFC divisional playoff, the Los Angeles Rams defeated the Dallas Cowboys 14-12. Which Cowboys&apos; player blocked a punt with two minutes left in the game that gave Dallas one last chance deep in L.A. territory?</string>
+			<key>answer1</key>
+			<string>Thomas Henderson</string>
+			<key>answer2</key>
+			<string>Mel Renfro</string>
+			<key>answer3</key>
+			<string>Charlie Waters</string>
+			<key>answer4</key>
+			<string>Cliff Harris</string>
+			<key>correct</key>
+			<string>Charlie Waters</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1976 NFC divisional playoff, the Minnesota Vikings defeated the Washington Redskins 35-20. Which of the following players did not score one of the Vikings&apos; five touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>Chuck Foreman</string>
+			<key>answer2</key>
+			<string>Stu Voight</string>
+			<key>answer3</key>
+			<string>Ahmad Rashad</string>
+			<key>answer4</key>
+			<string>Sammy White</string>
+			<key>correct</key>
+			<string>Ahmad Rashad</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Minnesota Vikings won the 1976 NFC Championship with a 24-13 victory over the Los Angeles Rams. Whose 90-yard return of a blocked field goal opened the scoring for the Vikings?</string>
+			<key>answer1</key>
+			<string>Nate Allen</string>
+			<key>answer2</key>
+			<string>Paul Krause</string>
+			<key>answer3</key>
+			<string>Matt Blair</string>
+			<key>answer4</key>
+			<string>Bobby Bryant</string>
+			<key>correct</key>
+			<string>Bobby Bryant</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1977 NFC divisional playoff, the Dallas Cowboys romped over who by a score of 37-7?</string>
+			<key>answer1</key>
+			<string>San Francisco 49er&apos;s</string>
+			<key>answer2</key>
+			<string>Atlanta Falcons</string>
+			<key>answer3</key>
+			<string>Chicago Bears</string>
+			<key>answer4</key>
+			<string>Detroit Lions</string>
+			<key>correct</key>
+			<string>Chicago Bears</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1977 NFC divisional playoff, the Minnesota Vikings defeated the Los Angeles Rams 14-7. Who played quarterback for the Vikings in the game?</string>
+			<key>answer1</key>
+			<string>Fran Tarkenton</string>
+			<key>answer2</key>
+			<string>Bob Lee</string>
+			<key>answer3</key>
+			<string>Tommy Kramer</string>
+			<key>answer4</key>
+			<string>Steve Dils</string>
+			<key>correct</key>
+			<string>Bob Lee</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Dallas Cowboys won the 1977 NFC Championship over the Minnesota Vikings by what score?</string>
+			<key>answer1</key>
+			<string>20-10.</string>
+			<key>answer2</key>
+			<string>24-14.</string>
+			<key>answer3</key>
+			<string>23-6.</string>
+			<key>answer4</key>
+			<string>27-3.</string>
+			<key>correct</key>
+			<string>23-6.</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1978 NFC first round playoff game, the Atlanta Falcons won their first ever playoff game with a 14-13 win over the Philadelphia Eagles. Who scored the winning touchdown for the Falcons in the game?</string>
+			<key>answer1</key>
+			<string>Bubba Bean</string>
+			<key>answer2</key>
+			<string>Alfred Jenkins</string>
+			<key>answer3</key>
+			<string>Wallace Francis</string>
+			<key>answer4</key>
+			<string>Jim Mitchell</string>
+			<key>correct</key>
+			<string>Wallace Francis</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1978 divisional playoff, the Dallas Cowboys came from behind in the second half to defeat the Atlanta Falcons 27-20. Which Cowboys&apos; player had two touchdowns in the game, including the game winner?</string>
+			<key>answer1</key>
+			<string>Tony Dorsett</string>
+			<key>answer2</key>
+			<string>Scott Laidlaw</string>
+			<key>answer3</key>
+			<string>Robert Newhouse</string>
+			<key>answer4</key>
+			<string>Tony Hill</string>
+			<key>correct</key>
+			<string>Scott Laidlaw</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1978 divisional playoff, after four playoff losses to the Vikings, the Los Angeles Rams finally defeated Minnesota 34-10. Who was the Rams&apos; quarterback in the game?</string>
+			<key>answer1</key>
+			<string>Vince Ferragamo</string>
+			<key>answer2</key>
+			<string>Pat Haden</string>
+			<key>answer3</key>
+			<string>Mark Harmon</string>
+			<key>answer4</key>
+			<string>Jeff Rutledge</string>
+			<key>correct</key>
+			<string>Pat Haden</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Dallas Cowboys won the 1978 NFC Championship with a 28-0 victory over the Los Angeles Rams. How many touchdown passes did Roger Staubach have in the game?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>0</string>
+			<key>answer4</key>
+			<string>2</string>
+			<key>correct</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1979 NFC first round playoff game, the Philadelphia Eagles defeated the Chicago Bears 27-17. Who scored the winning touchdown for the Eagles in the game?</string>
+			<key>answer1</key>
+			<string>Keith Krepfle</string>
+			<key>answer2</key>
+			<string>Harold Carmichael</string>
+			<key>answer3</key>
+			<string>Billy Campfield</string>
+			<key>answer4</key>
+			<string>Wilbert Montgomery</string>
+			<key>correct</key>
+			<string>Billy Campfield</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1979 NFC divisional playoff, the Tampa Bay Buccaneers won their first ever playoff game with a 24-17 victory over the Philadelphia Eagles. Who was the only Buccaneers player to score multiple touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>Issac Hagins</string>
+			<key>answer2</key>
+			<string>Doug Williams</string>
+			<key>answer3</key>
+			<string>Ricky Bell</string>
+			<key>answer4</key>
+			<string>Jimmie Giles</string>
+			<key>correct</key>
+			<string>Ricky Bell</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1979 NFC divisional playoff, the Los Angeles Rams defeated the Dallas Cowboys 21-19. Who caught the winning touchdown pass for the Rams in the game?</string>
+			<key>answer1</key>
+			<string>Billy Waddy</string>
+			<key>answer2</key>
+			<string>Ron Smith</string>
+			<key>answer3</key>
+			<string>Preston Dennard</string>
+			<key>answer4</key>
+			<string>Ron Jessie</string>
+			<key>correct</key>
+			<string>Billy Waddy</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Los Angeles Rams won the 1979 NFC Championship and advanced to their first Super Bowl with a 9-0 win over the Tampa Bay Buccaneers. Who was the Rams&apos; kicker that accounted for all the scoring in the game?</string>
+			<key>answer1</key>
+			<string>Tom Dempsey</string>
+			<key>answer2</key>
+			<string>Rafael Septien</string>
+			<key>answer3</key>
+			<string>Mike Lansford</string>
+			<key>answer4</key>
+			<string>Frank Corral</string>
+			<key>correct</key>
+			<string>Frank Corral</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Three NFC teams in the period from 1975 to 1979, entered the playoffs with the same 12-2 record, the best record for that period. Which of the following was not one of those three teams?</string>
+			<key>answer1</key>
+			<string>1977 Dallas Cowboys</string>
+			<key>answer2</key>
+			<string>1975 Minnesota Vikings</string>
+			<key>answer3</key>
+			<string>1976 Minnesota Vikings</string>
+			<key>answer4</key>
+			<string>1975 Los Angeles Rams</string>
+			<key>correct</key>
+			<string>1976 Minnesota Vikings</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Of all the teams that entered the playoffs in the NFC from 1975 to 1979, which one had the worst record?</string>
+			<key>answer1</key>
+			<string>1976 Washington Redskins</string>
+			<key>answer2</key>
+			<string>1979 Los Angeles Rams</string>
+			<key>answer3</key>
+			<string>1978 Minnesota Vikings</string>
+			<key>answer4</key>
+			<string>1977 Chicago Bears</string>
+			<key>correct</key>
+			<string>1978 Minnesota Vikings</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Chicago Bears secured the last playoff spot in 1979 by virtue of a tie-breaker of net points over which team?</string>
+			<key>answer1</key>
+			<string>Washington Redskins</string>
+			<key>answer2</key>
+			<string>New Orleans Saints</string>
+			<key>answer3</key>
+			<string>Minnesota Vikings</string>
+			<key>answer4</key>
+			<string>New York Giants</string>
+			<key>correct</key>
+			<string>Washington Redskins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which was true about the Chiefs and Dolphins coming into this game?</string>
+			<key>answer1</key>
+			<string>Neither of these</string>
+			<key>answer2</key>
+			<string>The Chiefs were the defending Super Bowl champions in 1971</string>
+			<key>answer3</key>
+			<string>In their entire history, the Dolphins had never beaten or tied the Chiefs</string>
+			<key>answer4</key>
+			<string>Both of these</string>
+			<key>correct</key>
+			<string>In their entire history, the Dolphins had never beaten or tied the Chiefs</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Besides its length and excitement, what was special about the game?</string>
+			<key>answer1</key>
+			<string>Both of these</string>
+			<key>answer2</key>
+			<string>It was played on the first Christmas day to have NFL games</string>
+			<key>answer3</key>
+			<string>Neither of these</string>
+			<key>answer4</key>
+			<string>It was the only postseason game ever played in Kansas City&apos;s Municipal Stadium</string>
+			<key>correct</key>
+			<string>Both of these</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>More than a dozen of the Chiefs and Dolphins who played in this game made it to the Pro Football Hall of Fame. But only one member of the 1971 Dolphins was on the All-Time AFL Team compiled in 1970. Who?</string>
+			<key>answer1</key>
+			<string>Nick Buoniconti</string>
+			<key>answer2</key>
+			<string>Larry Csonka</string>
+			<key>answer3</key>
+			<string>Bob Griese</string>
+			<key>answer4</key>
+			<string>Paul Warfield</string>
+			<key>correct</key>
+			<string>Nick Buoniconti</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Chiefs broke out to a 10-0 lead in the first quarter, but the Dolphins came right back. When was the first time they took the lead?</string>
+			<key>answer1</key>
+			<string>At the end of the game, 27-24</string>
+			<key>answer2</key>
+			<string>In the third quarter, 17-10</string>
+			<key>answer3</key>
+			<string>In the second quarter, 14-10</string>
+			<key>answer4</key>
+			<string>In the fourth quarter, 24-17</string>
+			<key>correct</key>
+			<string>At the end of the game, 27-24</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the leading rusher in the game?</string>
+			<key>answer1</key>
+			<string>Jim Kiick</string>
+			<key>answer2</key>
+			<string>Ed Podolak</string>
+			<key>answer3</key>
+			<string>Wendell Hayes</string>
+			<key>answer4</key>
+			<string>Larry Csonka</string>
+			<key>correct</key>
+			<string>Wendell Hayes</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who had the most yards receiving in the game?</string>
+			<key>answer1</key>
+			<string>Ed Podolak</string>
+			<key>answer2</key>
+			<string>Paul Warfield</string>
+			<key>answer3</key>
+			<string>Elmo Wright</string>
+			<key>answer4</key>
+			<string>Otis Taylor</string>
+			<key>correct</key>
+			<string>Paul Warfield</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Kansas City&apos;s Jan Stenerud was the leading kicker in football at the time, yet failed on three of his four field goal attempts in the game. Which statement below does not describe one of those attempts?</string>
+			<key>answer1</key>
+			<string>A 50-yarder was short</string>
+			<key>answer2</key>
+			<string>A 32-yarder was wide right</string>
+			<key>answer3</key>
+			<string>On a planned fake field goal, Stenerud fooled the snapper into thinking he was really kicking and the play fell apart</string>
+			<key>answer4</key>
+			<string>A 42-yarder was blocked</string>
+			<key>correct</key>
+			<string>A 50-yarder was short</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>NBC announcer Curt Gowdy adamantly refused to describe the contest as sudden death. What term did he prefer?</string>
+			<key>answer1</key>
+			<string>A Christmas treasure</string>
+			<key>answer2</key>
+			<string>Sudden victory</string>
+			<key>answer3</key>
+			<string>Sudden history</string>
+			<key>answer4</key>
+			<string>A game with two winners</string>
+			<key>correct</key>
+			<string>Sudden victory</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Garo Yepremian kicked the winning field goal at 7:40 of the second overtime. What had he done late in regulation time to keep the Dolphins in the game?</string>
+			<key>answer1</key>
+			<string>Recovered his own onsides kick to allow the Dolphins to tie the game</string>
+			<key>answer2</key>
+			<string>On a point-after-TD attempt, picked up a bad snap and passed it to Jim Kiick in the end zone for the extra point</string>
+			<key>answer3</key>
+			<string>Kicked a 52-yard field goal</string>
+			<key>answer4</key>
+			<string>Prevented a Kansas City kickoff return for a touchdown</string>
+			<key>correct</key>
+			<string>Prevented a Kansas City kickoff return for a touchdown</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The offical time of the game was 82:40, five regulation quarters, plus 7:40 in a sixth period. To the nearest thirty minutes, how long in real time did the game take to play?</string>
+			<key>answer1</key>
+			<string>5:00</string>
+			<key>answer2</key>
+			<string>0.166666667</string>
+			<key>answer3</key>
+			<string>0.145833333</string>
+			<key>answer4</key>
+			<string>0.1875</string>
+			<key>correct</key>
+			<string>0.145833333</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1970 NFC Divisional Playoff, the San Francisco 49ers won their first postseason playoff game ever with a 17-14 victory over who?</string>
+			<key>answer1</key>
+			<string>Chicago Bears</string>
+			<key>answer2</key>
+			<string>New York Giants</string>
+			<key>answer3</key>
+			<string>Minnesota Vikings</string>
+			<key>answer4</key>
+			<string>St. Louis Cardinals</string>
+			<key>correct</key>
+			<string>Minnesota Vikings</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1970 NFC Divisional Playoff, the Dallas Cowboys defeated the Detroit Lions in the lowest scoring game in playoff history. What was the final score of the game?</string>
+			<key>answer1</key>
+			<string>5-0.</string>
+			<key>answer2</key>
+			<string>6-0.</string>
+			<key>answer3</key>
+			<string>3-0.</string>
+			<key>answer4</key>
+			<string>3-2.</string>
+			<key>correct</key>
+			<string>5-0.</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Dallas Cowboys made their first Super Bowl with a 17-10 victory over the San Francisco 49ers in the 1970 NFC Championship game. Who scored the winning touchdown in the game for the Cowboys?</string>
+			<key>answer1</key>
+			<string>Walt Garrison</string>
+			<key>answer2</key>
+			<string>Calvin Hill</string>
+			<key>answer3</key>
+			<string>Duane Thomas</string>
+			<key>answer4</key>
+			<string>Bob Hayes</string>
+			<key>correct</key>
+			<string>Walt Garrison</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1971 NFC Divisional Playoff, the Dallas Cowboys defeated the Minnesota Vikings 20-12. How many field goals did both teams successfully make in the game?</string>
+			<key>answer1</key>
+			<string>3</string>
+			<key>answer2</key>
+			<string>1</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>0</string>
+			<key>correct</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1971 NFC Divisional Playoff, the San Francisco 49ers defeated the Washington Redskins 24-20. Whose fumble recovery for a touchdown provided the winning margin for the Niners?</string>
+			<key>answer1</key>
+			<string>Dave Wilcox</string>
+			<key>answer2</key>
+			<string>Cedrick Hardman</string>
+			<key>answer3</key>
+			<string>Bob Hoskins</string>
+			<key>answer4</key>
+			<string>Bruce Taylor</string>
+			<key>correct</key>
+			<string>Bob Hoskins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Dallas went to their second straight Super Bowl with a 14-3 win over the San Francisco 49ers. Who led the Cowboys in rushing in the game?</string>
+			<key>answer1</key>
+			<string>Calvin Hill</string>
+			<key>answer2</key>
+			<string>Roger Staubach</string>
+			<key>answer3</key>
+			<string>Duane Thomas</string>
+			<key>answer4</key>
+			<string>Walt Garrison</string>
+			<key>correct</key>
+			<string>Roger Staubach</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1972 Divisional Playoff, the Dallas Cowboys came from behind to defeat the San Francisco 49ers 30-28. How many fourth quarter points did Dallas score?</string>
+			<key>answer1</key>
+			<string>17</string>
+			<key>answer2</key>
+			<string>21</string>
+			<key>answer3</key>
+			<string>14</string>
+			<key>answer4</key>
+			<string>24</string>
+			<key>correct</key>
+			<string>17</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1972 NFC Divisional Playoff, the Washington Redskins defeated the Green Bay Packers 16-3. This marked the Packers only playoff appearance between 1968 and 1993 (not counting the strike season of 1982). Which head coach took the Pack to their 1972 playoff appearance?</string>
+			<key>answer1</key>
+			<string>Bart Starr</string>
+			<key>answer2</key>
+			<string>Dan Devine</string>
+			<key>answer3</key>
+			<string>Phil Bengston</string>
+			<key>answer4</key>
+			<string>Forrest Gregg</string>
+			<key>correct</key>
+			<string>Dan Devine</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Washington Redskins won the 1972 NFC Championship with a 26-3 win over the Dallas Cowboys. Who scored both of Washington&apos;s touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>Roy Jefferson</string>
+			<key>answer2</key>
+			<string>Charlie Harraway</string>
+			<key>answer3</key>
+			<string>Larry Brown</string>
+			<key>answer4</key>
+			<string>Charley Taylor</string>
+			<key>correct</key>
+			<string>Charley Taylor</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1973 NFC Divisional Playoff, the Dallas Cowboys advanced with a 27-16 victory over the Los Angeles Rams. Whose 83-yard touchdown reception broke the game open for the Cowboys?</string>
+			<key>answer1</key>
+			<string>Billy Joe Dupree</string>
+			<key>answer2</key>
+			<string>Golden Richards</string>
+			<key>answer3</key>
+			<string>Drew Pearson</string>
+			<key>answer4</key>
+			<string>Otto Stowe</string>
+			<key>correct</key>
+			<string>Drew Pearson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Minnesota Vikings defeated the Washington Redskins 27-20 in a 1973 NFC Divisional Playoff. Which Vikings player caught two fourth quarter touchdown passes in the game?</string>
+			<key>answer1</key>
+			<string>John Gilliam</string>
+			<key>answer2</key>
+			<string>Chuck Foreman</string>
+			<key>answer3</key>
+			<string>Ahmad Rashad</string>
+			<key>answer4</key>
+			<string>Ed Marinaro</string>
+			<key>correct</key>
+			<string>John Gilliam</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Minnesota Vikings won the 1973 NFC Championship with a 27-10 win over the Dallas Cowboys. How many turnovers did Dallas have in the game?</string>
+			<key>answer1</key>
+			<string>7</string>
+			<key>answer2</key>
+			<string>4</string>
+			<key>answer3</key>
+			<string>5</string>
+			<key>answer4</key>
+			<string>6</string>
+			<key>correct</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1974 Divisional Playoff, the Minnesota Vikings defeated the St. Louis Cardinals 30-14. The winning touchdown was scored when Nate Wright return a fumble by this person for a touchdown?</string>
+			<key>answer1</key>
+			<string>Jim Hart</string>
+			<key>answer2</key>
+			<string>Mel Gray</string>
+			<key>answer3</key>
+			<string>Jim Otis</string>
+			<key>answer4</key>
+			<string>Terry Metcalfe</string>
+			<key>correct</key>
+			<string>Terry Metcalfe</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Los Angeles Rams defeated the Washington Redskins 19-10 in a 1974 NFC Divisional Playoff. The Rams&apos; only offensive touchdown came on a 10-yard touchdown pass by who?</string>
+			<key>answer1</key>
+			<string>Ron Jaworski</string>
+			<key>answer2</key>
+			<string>Pat Haden</string>
+			<key>answer3</key>
+			<string>James Harris</string>
+			<key>answer4</key>
+			<string>John Hadl</string>
+			<key>correct</key>
+			<string>James Harris</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Minnesota Vikings won their second straight NFC title with a 14-10 victory over the Los Angeles Rams. Who scored the eventual winning touchdown for the Vikings in the game?</string>
+			<key>answer1</key>
+			<string>Bill Brown</string>
+			<key>answer2</key>
+			<string>Brent McClanahan</string>
+			<key>answer3</key>
+			<string>Fran Tarkenton</string>
+			<key>answer4</key>
+			<string>Dave Osborn</string>
+			<key>correct</key>
+			<string>Dave Osborn</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1975 AFC Divisional Playoff, the Pittsburgh Steelers defeated the Baltimore Colts 28-10. Who ran a fumble recovery back 93 yards for the last Steelers touchdown?</string>
+			<key>answer1</key>
+			<string>Andy Russell</string>
+			<key>answer2</key>
+			<string>Jack Lambert</string>
+			<key>answer3</key>
+			<string>Jack Ham</string>
+			<key>answer4</key>
+			<string>Donnie Shell</string>
+			<key>correct</key>
+			<string>Andy Russell</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1975 AFC Divisional Playoff, the Oakland Raiders held on to defeat the Cincinnati Bengals 31-28. Raiders quarterback Ken Stabler threw three touchdowns to three different players in the game. Which of these was NOT one of the three players?</string>
+			<key>answer1</key>
+			<string>Clarence Davis</string>
+			<key>answer2</key>
+			<string>Bob Moore</string>
+			<key>answer3</key>
+			<string>Mike Siani</string>
+			<key>answer4</key>
+			<string>Dave Casper</string>
+			<key>correct</key>
+			<string>Clarence Davis</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Pittsburgh Steelers won the 1975 AFC Championship with a 16-10 win over the Oakland Raiders. Which Steeler caught the winning touchdown pass?</string>
+			<key>answer1</key>
+			<string>Lynn Swann</string>
+			<key>answer2</key>
+			<string>John Stallworth</string>
+			<key>answer3</key>
+			<string>Franco Harris</string>
+			<key>answer4</key>
+			<string>Rocky Bleier</string>
+			<key>correct</key>
+			<string>John Stallworth</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1976 AFC Divisional Playoff, the Pittsburgh Steelers destroyed the Baltimore Colts 40-14. How many touchdown passes did Terry Bradshaw throw in the game?</string>
+			<key>answer1</key>
+			<string>4</string>
+			<key>answer2</key>
+			<string>1</string>
+			<key>answer3</key>
+			<string>3</string>
+			<key>answer4</key>
+			<string>2</string>
+			<key>correct</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1976 AFC Divisional Playoff, the Oakland Raiders defeated the New England Patriots 24-21. Who scored the winning touchdown for the Raiders with ten seconds left?</string>
+			<key>answer1</key>
+			<string>Pete Banaszek</string>
+			<key>answer2</key>
+			<string>Mark van Eeghen</string>
+			<key>answer3</key>
+			<string>Ken Stabler</string>
+			<key>answer4</key>
+			<string>Fred Biletnikoff</string>
+			<key>correct</key>
+			<string>Ken Stabler</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In the 1976 AFC Championship Game, the Oakland Raiders, on their third try, defeated the Pittsburgh Steelers 24-7. Who was the Raiders&apos; kicker that had one field goal and three extra points in the game?</string>
+			<key>answer1</key>
+			<string>George Blanda</string>
+			<key>answer2</key>
+			<string>Jim Turner</string>
+			<key>answer3</key>
+			<string>Jim Breech</string>
+			<key>answer4</key>
+			<string>Errol Mann</string>
+			<key>correct</key>
+			<string>Errol Mann</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1977 AFC Divisional Playoff, the Denver Broncos won their first ever playoff game, defeating the Pittsburgh Steelers 34-21. Which Broncos&apos; defensive player had two interceptions in the fourth quarter?</string>
+			<key>answer1</key>
+			<string>Joe Rizzo</string>
+			<key>answer2</key>
+			<string>Randy Gradishar</string>
+			<key>answer3</key>
+			<string>Tom Jackson</string>
+			<key>answer4</key>
+			<string>Louis Wright</string>
+			<key>correct</key>
+			<string>Tom Jackson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1977 AFC Divisional Playoff, the Oakland Raiders defeated the Baltimore Colts in double overtime 37-31. Who scored the winning touchdown for the Raiders?</string>
+			<key>answer1</key>
+			<string>Carl Garrett</string>
+			<key>answer2</key>
+			<string>Dave Casper</string>
+			<key>answer3</key>
+			<string>Cliff Branch</string>
+			<key>answer4</key>
+			<string>Pete Banaszek</string>
+			<key>correct</key>
+			<string>Dave Casper</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Denver Broncos won the 1977 AFC Championship with a 20-17 win over the Oakland Raiders. Who scored the winning touchdown for Denver?</string>
+			<key>answer1</key>
+			<string>Jack Dolbin</string>
+			<key>answer2</key>
+			<string>Floyd Little</string>
+			<key>answer3</key>
+			<string>Haven Moses</string>
+			<key>answer4</key>
+			<string>Jon Keyworth</string>
+			<key>correct</key>
+			<string>Haven Moses</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1978 AFC First Round Playoff Game, the Houston Oilers defeated the Miami Dolphins 17-9. Who had the winning score for the Oilers in the game?</string>
+			<key>answer1</key>
+			<string>Earl Campbell</string>
+			<key>answer2</key>
+			<string>Dan Pastorini</string>
+			<key>answer3</key>
+			<string>Toni Fritsch</string>
+			<key>answer4</key>
+			<string>Ronnie Coleman</string>
+			<key>correct</key>
+			<string>Toni Fritsch</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1978 AFC Divisional Playoff, the Pittsburgh Steelers defeated the Denver Broncos 33-10. Who was the only Steeler to score multiple touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>John Stallworth</string>
+			<key>answer2</key>
+			<string>Franco Harris</string>
+			<key>answer3</key>
+			<string>Lynn Swann</string>
+			<key>answer4</key>
+			<string>Rocky Bleier</string>
+			<key>correct</key>
+			<string>Franco Harris</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1978 AFC Divisional Playoff, the Houston Oilers defeated the New England Patriots 31-14. In which quarter did the Oilers score 21 points?</string>
+			<key>answer1</key>
+			<string>1st</string>
+			<key>answer2</key>
+			<string>2nd</string>
+			<key>answer3</key>
+			<string>3rd</string>
+			<key>answer4</key>
+			<string>4th</string>
+			<key>correct</key>
+			<string>2nd</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Pittsburgh Steelers won the 1978 AFC Championship with a 34-5 win over the Houston Oilers. How many points did Pittsburgh score in a 48 seconds span of the second quarter?</string>
+			<key>answer1</key>
+			<string>14</string>
+			<key>answer2</key>
+			<string>27</string>
+			<key>answer3</key>
+			<string>21</string>
+			<key>answer4</key>
+			<string>17</string>
+			<key>correct</key>
+			<string>17</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1979 AFC First Round Playoff, the Houston Oilers defeated which team by a score of 13-7?</string>
+			<key>answer1</key>
+			<string>Oakland Raiders</string>
+			<key>answer2</key>
+			<string>Seattle Seahawks</string>
+			<key>answer3</key>
+			<string>Denver Broncos</string>
+			<key>answer4</key>
+			<string>New England Patriots</string>
+			<key>correct</key>
+			<string>Denver Broncos</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1979 AFC Divisional Playoff, the Houston Oilers defeated the San Diego Chargers 17-14. Who scored the winning touchdown for the Oilers in the game?</string>
+			<key>answer1</key>
+			<string>Tim Wilson</string>
+			<key>answer2</key>
+			<string>Ken Burrough</string>
+			<key>answer3</key>
+			<string>Mike Renfro</string>
+			<key>answer4</key>
+			<string>Billy Johnson</string>
+			<key>correct</key>
+			<string>Mike Renfro</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1979 AFC Divisional Playoff, the Pittsburgh Steelers defeated the Miami Dolphins 34-14. How many first quarter points did the Steelers have in the game?</string>
+			<key>answer1</key>
+			<string>20</string>
+			<key>answer2</key>
+			<string>14</string>
+			<key>answer3</key>
+			<string>31</string>
+			<key>answer4</key>
+			<string>0</string>
+			<key>correct</key>
+			<string>20</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Pittsburgh Steelers won the 1979 AFC Championship with a 27-13 victory over the Houston Oilers. Houston&apos;s only touchdown of the game came on a 75-yard interception return by what player?</string>
+			<key>answer1</key>
+			<string>Mike Reinfeldt</string>
+			<key>answer2</key>
+			<string>Robert Brazile</string>
+			<key>answer3</key>
+			<string>Greg Stemrick</string>
+			<key>answer4</key>
+			<string>Vernon Perry</string>
+			<key>correct</key>
+			<string>Vernon Perry</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Of all the teams that qualified for the playoffs from 1975 to 1979 in the AFC, which one had the best record?</string>
+			<key>answer1</key>
+			<string>1979 San Diego Chargers</string>
+			<key>answer2</key>
+			<string>1978 Pittsburgh Steelers</string>
+			<key>answer3</key>
+			<string>1976 Oakland Raiders</string>
+			<key>answer4</key>
+			<string>1975 Pittsburgh Steelers</string>
+			<key>correct</key>
+			<string>1976 Oakland Raiders</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Of all the teams that qualified for the playoffs from 1975-79 in the AFC, which of the following had the worst record?</string>
+			<key>answer1</key>
+			<string>1979 Baltimore Colts</string>
+			<key>answer2</key>
+			<string>1974 Pittsburgh Steelers</string>
+			<key>answer3</key>
+			<string>1979 Miami Dolphins</string>
+			<key>answer4</key>
+			<string>1976 Denver Broncos</string>
+			<key>correct</key>
+			<string>1979 Miami Dolphins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Of the five Super Bowls that took place for the seasons 1975 to 1979, how many were won by teams from the AFC?</string>
+			<key>answer1</key>
+			<string>4</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>5</string>
+			<key>answer4</key>
+			<string>2</string>
+			<key>correct</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In one 1970 AFC Divisional Playoff game, the Baltimore Colts won 17-0 against which team, making their first NFL playoff appearance?</string>
+			<key>answer1</key>
+			<string>Seattle Seahawks</string>
+			<key>answer2</key>
+			<string>Denver Broncos</string>
+			<key>answer3</key>
+			<string>Cincinnati Bengals</string>
+			<key>answer4</key>
+			<string>Boston Patriots</string>
+			<key>correct</key>
+			<string>Cincinnati Bengals</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1970 AFC Divisional Playoff game, the Miami Dolphins, also making their playoff debut, lost to the Oakland Raiders 21-14. Whose 82-yard touchdown reception provided the Raiders with the winning margin?</string>
+			<key>answer1</key>
+			<string>Rod Sherman</string>
+			<key>answer2</key>
+			<string>Warren Wells</string>
+			<key>answer3</key>
+			<string>Fred Biletnikoff</string>
+			<key>answer4</key>
+			<string>Hewritt Dixon</string>
+			<key>correct</key>
+			<string>Rod Sherman</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Baltimore Colts won the first AFC title with a 27-17 win over the Oakland Raiders. Which quarterback threw the most touchdown passes in the game?</string>
+			<key>answer1</key>
+			<string>George Blanda</string>
+			<key>answer2</key>
+			<string>Daryle Lamonica</string>
+			<key>answer3</key>
+			<string>Johnny Unitas</string>
+			<key>answer4</key>
+			<string>Earl Morrall</string>
+			<key>correct</key>
+			<string>George Blanda</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Miami Dolphins defeated the Kansas City Chiefs 27-24 in the longest game in NFL history. The game ended at 7:40 of the sixth quarter. Whose touchdown reception late in the game sent it to overtime?</string>
+			<key>answer1</key>
+			<string>Marv Fleming</string>
+			<key>answer2</key>
+			<string>Ed Podolak</string>
+			<key>answer3</key>
+			<string>Otis Taylor</string>
+			<key>answer4</key>
+			<string>Paul Warfield</string>
+			<key>correct</key>
+			<string>Marv Fleming</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Baltimore Colts advanced to their second straight AFC title game with a 20-3 win over the Cleveland Browns. Which Colts running back had two touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>Don McCauley</string>
+			<key>answer2</key>
+			<string>Norm Bulaich</string>
+			<key>answer3</key>
+			<string>Don Nottingham</string>
+			<key>answer4</key>
+			<string>Tom Matte</string>
+			<key>correct</key>
+			<string>Don Nottingham</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Miami won the 1971 AFC title with a 21-0 victory over Baltimore. Among Miami&apos;s scores was a 62-yard interception return by who?</string>
+			<key>answer1</key>
+			<string>Jake Scott</string>
+			<key>answer2</key>
+			<string>Dick Anderson</string>
+			<key>answer3</key>
+			<string>Tim Foley</string>
+			<key>answer4</key>
+			<string>Nick Buoniconti</string>
+			<key>correct</key>
+			<string>Dick Anderson</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In the Immaculate Reception game, the Pittsburgh Steelers defeated the Oakland Raiders 13-7 when Franco Harris ran 60 yards with a deflected pass for a touchdown on the last play of the game. Who scored for Oakland to give them a 7-6 lead late in the game?</string>
+			<key>answer1</key>
+			<string>Ken Stabler</string>
+			<key>answer2</key>
+			<string>Marv Hubbard</string>
+			<key>answer3</key>
+			<string>Cliff Branch</string>
+			<key>answer4</key>
+			<string>Pete Banaszek</string>
+			<key>correct</key>
+			<string>Ken Stabler</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Miami Dolphins defeated the Cleveland Browns 20-14 to win their 1972 AFC Divisional Playoff game. How many times was Browns quarterback Mike Phipps intercepted in the game?</string>
+			<key>answer1</key>
+			<string>4</string>
+			<key>answer2</key>
+			<string>5</string>
+			<key>answer3</key>
+			<string>6</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Miami won their second straight AFC title with a 21-17 victory over the Pittsburgh Steelers in the 1972 title game. Who scored two touchdowns for the Dolphins in the game?</string>
+			<key>answer1</key>
+			<string>Larry Csonka</string>
+			<key>answer2</key>
+			<string>Bob Griese</string>
+			<key>answer3</key>
+			<string>Mercury Morris</string>
+			<key>answer4</key>
+			<string>Jim Kiick</string>
+			<key>correct</key>
+			<string>Jim Kiick</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In a 1973 AFC Divisional Playoff game, the Oakland Raiders rolled over the Pittsburgh Steelers 33-14. George Blanda kicked how many field goals in the game?</string>
+			<key>answer1</key>
+			<string>2</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>4</string>
+			<key>answer4</key>
+			<string>5</string>
+			<key>correct</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Miami Dolphins made their third straight AFC Championship game with a 34-16 win over Cincinnati in a 1973 AFC Divisional Playoff. How did Cincinnati score their only touchdown of the game?</string>
+			<key>answer1</key>
+			<string>Interception return</string>
+			<key>answer2</key>
+			<string>Kickoff return</string>
+			<key>answer3</key>
+			<string>Fumble recovery</string>
+			<key>answer4</key>
+			<string>Punt return</string>
+			<key>correct</key>
+			<string>Interception return</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Miami went to their third straight Super Bowl with a 27-10 victory over Oakland in the 1973 AFC Championship game. Which Dolphins&apos; player scored three touchdowns in the game?</string>
+			<key>answer1</key>
+			<string>Marlin Briscoe</string>
+			<key>answer2</key>
+			<string>Mercury Morris</string>
+			<key>answer3</key>
+			<string>Jim Mandrich</string>
+			<key>answer4</key>
+			<string>Larry Csonka</string>
+			<key>correct</key>
+			<string>Larry Csonka</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In the 1974 AFC Divisional Playoffs, Oakland defeated Miami 28-26 on an eight yard touchdown reception by who?</string>
+			<key>answer1</key>
+			<string>Charlie Smith</string>
+			<key>answer2</key>
+			<string>Mark Van Eeghen</string>
+			<key>answer3</key>
+			<string>Cliff Branch</string>
+			<key>answer4</key>
+			<string>Clarence Davis</string>
+			<key>correct</key>
+			<string>Clarence Davis</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Pittsburgh Steelers won their 1974 AFC Divisional Playoff game with a 32-14 victory over who?</string>
+			<key>answer1</key>
+			<string>San Diego Chargers</string>
+			<key>answer2</key>
+			<string>Kansas City Chiefs</string>
+			<key>answer3</key>
+			<string>Buffalo Bills</string>
+			<key>answer4</key>
+			<string>Baltimore Colts</string>
+			<key>correct</key>
+			<string>Buffalo Bills</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Pittsburgh Steelers advanced to their first Super Bowl with a 24-13 win over the Oakland Raiders for the 1974 AFC Championship. Pittsburgh scored 21 of their 24 points in what quarter?</string>
+			<key>answer1</key>
+			<string>1st</string>
+			<key>answer2</key>
+			<string>3rd</string>
+			<key>answer3</key>
+			<string>2nd</string>
+			<key>answer4</key>
+			<string>4th</string>
+			<key>correct</key>
+			<string>4th</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In 1977, Super Bowl XI was played in Rose Bowl in Pasadena, California. Who won Super Bowl XI?</string>
+			<key>answer1</key>
+			<string>Dallas Cowboys</string>
+			<key>answer2</key>
+			<string>Minnesota Vikings</string>
+			<key>answer3</key>
+			<string>Oakland Raiders</string>
+			<key>answer4</key>
+			<string>Pittsburgh Steelers</string>
+			<key>correct</key>
+			<string>Oakland Raiders</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Superdome in New Orleans, Lousiana, was the site of Super Bowl XII. Who won Super Bowl XII?</string>
+			<key>answer1</key>
+			<string>Dallas Cowboys</string>
+			<key>answer2</key>
+			<string>Pittsburgh Steelers</string>
+			<key>answer3</key>
+			<string>Denver Broncos</string>
+			<key>answer4</key>
+			<string>Chicago Bears</string>
+			<key>correct</key>
+			<string>Dallas Cowboys</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Orange Bowl in Miami, Florida, hosted Super Bowl XIII. Who won Super Bowl XIII?</string>
+			<key>answer1</key>
+			<string>Pittsburgh Steelers</string>
+			<key>answer2</key>
+			<string>Houston Oilers</string>
+			<key>answer3</key>
+			<string>Dallas Cowboys</string>
+			<key>answer4</key>
+			<string>Los Angeles Rams</string>
+			<key>correct</key>
+			<string>Pittsburgh Steelers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The Rose Bowl hosted Super Bowl XIV. Who won Super Bowl XIV?</string>
+			<key>answer1</key>
+			<string>Pittsburgh Steelers</string>
+			<key>answer2</key>
+			<string>Tampa Bay Buccaneers</string>
+			<key>answer3</key>
+			<string>Los Angeles Rams</string>
+			<key>answer4</key>
+			<string>Miami Dolphins</string>
+			<key>correct</key>
+			<string>Pittsburgh Steelers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The 15th Super Bowl was played at the Superdome in New Orleans, Louisiana. Who won Super Bowl XV?</string>
+			<key>answer1</key>
+			<string>Dallas Cowboys</string>
+			<key>answer2</key>
+			<string>Philadelphia Eagles</string>
+			<key>answer3</key>
+			<string>Oakland Raiders</string>
+			<key>answer4</key>
+			<string>Pittsburgh Steelers</string>
+			<key>correct</key>
+			<string>Oakland Raiders</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Pontiac, Michigan, hosted Super Bowl XVI that was played at the Silverdome. Who won Super Bowl XVI?</string>
+			<key>answer1</key>
+			<string>Dallas Cowboys</string>
+			<key>answer2</key>
+			<string>San Francisco 49ers</string>
+			<key>answer3</key>
+			<string>Cincinnati Bengels</string>
+			<key>answer4</key>
+			<string>Pittsburgh Steelers</string>
+			<key>correct</key>
+			<string>San Francisco 49ers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The 17th Super Bowl was played at the Rose Bowl. Who won Super Bowl XVII?</string>
+			<key>answer1</key>
+			<string>Washington Redskins</string>
+			<key>answer2</key>
+			<string>Oakland Raiders</string>
+			<key>answer3</key>
+			<string>Miami Dolphins</string>
+			<key>answer4</key>
+			<string>Houston Oilers</string>
+			<key>correct</key>
+			<string>Washington Redskins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Tampa Stadium in Florida held Super Bowl XVIII. Who won Super Bowl XVIII?</string>
+			<key>answer1</key>
+			<string>Los Angeles Rams</string>
+			<key>answer2</key>
+			<string>Los Angeles Raiders</string>
+			<key>answer3</key>
+			<string>Washington Redskins</string>
+			<key>answer4</key>
+			<string>Dallas Cowboys</string>
+			<key>correct</key>
+			<string>Los Angeles Raiders</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Stanford Stadium in Palo Alto, California, hosted Super Bowl XIX. Who won Super Bowl XIX?</string>
+			<key>answer1</key>
+			<string>Miami Dolphins</string>
+			<key>answer2</key>
+			<string>Baltimore Colts</string>
+			<key>answer3</key>
+			<string>Houston Oilers</string>
+			<key>answer4</key>
+			<string>San Francisco 49ers</string>
+			<key>correct</key>
+			<string>San Francisco 49ers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>In 1986, the Superdome hosted Super Bowl XX. Who won Super Bowl XX?</string>
+			<key>answer1</key>
+			<string>Cleveland Browns</string>
+			<key>answer2</key>
+			<string>New England Patriots</string>
+			<key>answer3</key>
+			<string>Chicago Bears</string>
+			<key>answer4</key>
+			<string>Los Angeles Raiders</string>
+			<key>correct</key>
+			<string>Chicago Bears</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Super Bowl XXXIV pitted the St. Louis Rams against the Tennessee Titans. Who did the Rams defeat in the Conference Championship to earn a spot in this Super Bowl?</string>
+			<key>answer1</key>
+			<string>Cincinnati Bengals</string>
+			<key>answer2</key>
+			<string>Denver Broncos</string>
+			<key>answer3</key>
+			<string>Cleveland Browns</string>
+			<key>answer4</key>
+			<string>Tampa Bay Buccaneers</string>
+			<key>correct</key>
+			<string>Tampa Bay Buccaneers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>ABC (American Broadcasting Company) purchased the rights to broadcast the January 2000 Super Bowl in the United States. Who were the announcers of the game?</string>
+			<key>answer1</key>
+			<string>Dick Enberg and Curt Gowdy</string>
+			<key>answer2</key>
+			<string>Pat Summerall, John Madden, and Len Dawson</string>
+			<key>answer3</key>
+			<string>Al Michaels and Boomer Esiason</string>
+			<key>answer4</key>
+			<string>Al Michaels, Howard Cosell, and Don Merideth</string>
+			<key>correct</key>
+			<string>Al Michaels and Boomer Esiason</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>The score at the halfway point of any sporting match is important as it affects the plays of the second half. What was the score at halftime of Super Bowl XXXIV?</string>
+			<key>answer1</key>
+			<string>Titans 14-7</string>
+			<key>answer2</key>
+			<string>Rams 9-0</string>
+			<key>answer3</key>
+			<string>Titans 16-13</string>
+			<key>answer4</key>
+			<string>Rams 21-17</string>
+			<key>correct</key>
+			<string>Rams 9-0</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Super Bowl matches may come and go but it is the records that can stick around for years and even decades later. Rams quarterback Kurt Warner set a Super Bowl record by being the first quarterback to do what?</string>
+			<key>answer1</key>
+			<string>Throw for over 400 yards</string>
+			<key>answer2</key>
+			<string>Catch a pass</string>
+			<key>answer3</key>
+			<string>Fumble the ball three times</string>
+			<key>answer4</key>
+			<string>Rush for over 100 yards</string>
+			<key>correct</key>
+			<string>Throw for over 400 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Super Bowl XXXIV pitted the St. Louis Rams against the Tennessee Titans. It was the Titan&apos;s first-ever Super Bowl appearance, but, the Rams were making their ____ appearance.</string>
+			<key>answer1</key>
+			<string>1st</string>
+			<key>answer2</key>
+			<string>4th</string>
+			<key>answer3</key>
+			<string>3rd</string>
+			<key>answer4</key>
+			<string>2nd</string>
+			<key>correct</key>
+			<string>2nd</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>This Rams safety had 72 tackles in his 16 games in the season, but stepped it up to lead both teams with 12 tackles in this one Super Bowl game. Who was he?</string>
+			<key>answer1</key>
+			<string>Steve Preece</string>
+			<key>answer2</key>
+			<string>Eddie Brown</string>
+			<key>answer3</key>
+			<string>Billy Jenkins</string>
+			<key>answer4</key>
+			<string>Dave Elmendorf</string>
+			<key>correct</key>
+			<string>Billy Jenkins</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>On the day of Super Bowl XXXIV, a second ice storm was hitting Atlanta within a week! What was the temperature on the field at game time?</string>
+			<key>answer1</key>
+			<string>.-4F</string>
+			<key>answer2</key>
+			<string>41F</string>
+			<key>answer3</key>
+			<string>72F</string>
+			<key>answer4</key>
+			<string>18F</string>
+			<key>correct</key>
+			<string>72F</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Super Bowl XXXIV had an exciting finish! With only six seconds left in the game, which Ram linebacker stopped the Titans&apos; Kevin Dyson on the one-yard line thus preventing the Titans from scoring the potential game-tying touchdown?</string>
+			<key>answer1</key>
+			<string>Robert Tate</string>
+			<key>answer2</key>
+			<string>Zach Thomas</string>
+			<key>answer3</key>
+			<string>Mike Jones</string>
+			<key>answer4</key>
+			<string>Robert Jones</string>
+			<key>correct</key>
+			<string>Mike Jones</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Even though it is the football players that are the focus of most of the attention at Super Bowl events, many other people contribute to one of the biggest productions on American television. What part did Bob McElwee play in Super Bowl XXXIV?</string>
+			<key>answer1</key>
+			<string>He sang the national anthem</string>
+			<key>answer2</key>
+			<string>He was the referee</string>
+			<key>answer3</key>
+			<string>He was the MVP</string>
+			<key>answer4</key>
+			<string>He was one of the ABC announcers</string>
+			<key>correct</key>
+			<string>He was the referee</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>There are some Super Bowl events that end with very few points between teams whilst there is a larger margin of victory in others. The favourites to win Super Bowl XXXIV were the St. Louis Rams by how many points?</string>
+			<key>answer1</key>
+			<string>7</string>
+			<key>answer2</key>
+			<string>23-1/2.</string>
+			<key>answer3</key>
+			<string>18-1/2.</string>
+			<key>answer4</key>
+			<string>1</string>
+			<key>correct</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many sacks was there in total in the Super Bowl?</string>
+			<key>answer1</key>
+			<string>6</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>7</string>
+			<key>answer4</key>
+			<string>5</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What Rams receiver scored the only passing touchdown for the Rams?</string>
+			<key>answer1</key>
+			<string>Az-Zahir Hakim</string>
+			<key>answer2</key>
+			<string>Torry Holt</string>
+			<key>answer3</key>
+			<string>Ricky Proehl</string>
+			<key>answer4</key>
+			<string>Isaac Bruce</string>
+			<key>correct</key>
+			<string>Ricky Proehl</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many interceptions did Tom Brady (Patriots) throw in the Super Bowl?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>0</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the attendance at Super Bowl XXXVI?</string>
+			<key>answer1</key>
+			<string>72922</string>
+			<key>answer2</key>
+			<string>71459</string>
+			<key>answer3</key>
+			<string>73000</string>
+			<key>answer4</key>
+			<string>70544</string>
+			<key>correct</key>
+			<string>72922</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How long was the field goal Adam Viniateri scored at the end of the game, to win the game 20-17 for the Patriots?</string>
+			<key>answer1</key>
+			<string>52 yards</string>
+			<key>answer2</key>
+			<string>45 yards</string>
+			<key>answer3</key>
+			<string>46 yards</string>
+			<key>answer4</key>
+			<string>48 yards</string>
+			<key>correct</key>
+			<string>48 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many total rushing yards did the Patriots have?</string>
+			<key>answer1</key>
+			<string>337</string>
+			<key>answer2</key>
+			<string>134</string>
+			<key>answer3</key>
+			<string>133</string>
+			<key>answer4</key>
+			<string>90</string>
+			<key>correct</key>
+			<string>133</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who led the game in catches?</string>
+			<key>answer1</key>
+			<string>David Patten</string>
+			<key>answer2</key>
+			<string>Tory Holt</string>
+			<key>answer3</key>
+			<string>Troy Brown</string>
+			<key>answer4</key>
+			<string>Az-Zahir Hakim</string>
+			<key>correct</key>
+			<string>Troy Brown</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was voted MVP by the media?</string>
+			<key>answer1</key>
+			<string>Adam Viniateri</string>
+			<key>answer2</key>
+			<string>Ty Law</string>
+			<key>answer3</key>
+			<string>Tom Brady</string>
+			<key>answer4</key>
+			<string>Kurt Warner</string>
+			<key>correct</key>
+			<string>Tom Brady</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>By how many yards did the Rams outgain the Patriots?</string>
+			<key>answer1</key>
+			<string>7 yards</string>
+			<key>answer2</key>
+			<string>160 yards</string>
+			<key>answer3</key>
+			<string>124 yards</string>
+			<key>answer4</key>
+			<string>63 yards</string>
+			<key>correct</key>
+			<string>160 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored the first touchdown in Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>Jamal Lewis</string>
+			<key>answer2</key>
+			<string>Jermaine Lewis</string>
+			<key>answer3</key>
+			<string>Qadry Ismail</string>
+			<key>answer4</key>
+			<string>Brandon Stokley</string>
+			<key>correct</key>
+			<string>Brandon Stokley</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How long was Matt Stover&apos;s longest field goal of Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>51 yards</string>
+			<key>answer2</key>
+			<string>39 yards</string>
+			<key>answer3</key>
+			<string>47 yards</string>
+			<key>answer4</key>
+			<string>43 yards</string>
+			<key>correct</key>
+			<string>47 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many passes did Tony Banks throw for the Ravens in Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>2</string>
+			<key>answer3</key>
+			<string>0</string>
+			<key>answer4</key>
+			<string>Tony Banks did not play in Superbowl XXXV</string>
+			<key>correct</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which Raven ran back an interception for a touchdown in Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>Jamie Sharper</string>
+			<key>answer2</key>
+			<string>Rod Woodson</string>
+			<key>answer3</key>
+			<string>Duane Starks</string>
+			<key>answer4</key>
+			<string>Ray Lewis</string>
+			<key>correct</key>
+			<string>Duane Starks</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored the final touchdown of Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>Rod Woodson</string>
+			<key>answer2</key>
+			<string>Trent Dilfer</string>
+			<key>answer3</key>
+			<string>Jamal Lewis</string>
+			<key>answer4</key>
+			<string>Shannon Sharpe</string>
+			<key>correct</key>
+			<string>Jamal Lewis</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How did the Giants score their only points of Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>field goal</string>
+			<key>answer2</key>
+			<string>kickoff return</string>
+			<key>answer3</key>
+			<string>fumble recovery</string>
+			<key>answer4</key>
+			<string>punt return</string>
+			<key>correct</key>
+			<string>kickoff return</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many field goals were missed by both teams combined in Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>0</string>
+			<key>answer2</key>
+			<string>1</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many interceptions did the Raven&apos;s defense collect in Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>3</string>
+			<key>answer2</key>
+			<string>4</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>1</string>
+			<key>correct</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Where did the Ravens play the AFC Championship game, just prior to Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>Oakland Coliseum</string>
+			<key>answer2</key>
+			<string>Mile High Stadium</string>
+			<key>answer3</key>
+			<string>Adelphia Coliseum</string>
+			<key>answer4</key>
+			<string>PSINet Stadium</string>
+			<key>correct</key>
+			<string>Oakland Coliseum</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who are the 5 Ravens that appeared on a Wheaties box to commemorate the Superbowl XXXV championship?</string>
+			<key>answer1</key>
+			<string>Trent Dilfer, Ray Lewis, Qadry Ismail, Jamal Lewis, and Shannon Sharpe</string>
+			<key>answer2</key>
+			<string>Jamal Lewis, Jermaine Lewis, Trent Dilfer, Shannon Sharpe, and Jonathan Ogden.</string>
+			<key>answer3</key>
+			<string>Trent Dilfer, Jamal Lewis, Shannon Sharpe, Qadry Ismail, and Jonathan Ogden</string>
+			<key>answer4</key>
+			<string>Shannon Sharpe, Qadry Ismail, Rod Woodson, Jonathan Ogden, and Michael McCrary</string>
+			<key>correct</key>
+			<string>Shannon Sharpe, Qadry Ismail, Rod Woodson, Jonathan Ogden, and Michael McCrary</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many touchdowns did the 2000 Ravens score in the month of October?</string>
+			<key>answer1</key>
+			<string>3</string>
+			<key>answer2</key>
+			<string>1</string>
+			<key>answer3</key>
+			<string>0</string>
+			<key>answer4</key>
+			<string>2</string>
+			<key>correct</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many points did the 2000 Raven&apos;s record setting defense allow opponents during the regular season?</string>
+			<key>answer1</key>
+			<string>165</string>
+			<key>answer2</key>
+			<string>163</string>
+			<key>answer3</key>
+			<string>168</string>
+			<key>answer4</key>
+			<string>169</string>
+			<key>correct</key>
+			<string>165</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the final score of Superbowl XXXV?</string>
+			<key>answer1</key>
+			<string>37-10</string>
+			<key>answer2</key>
+			<string>31-7.</string>
+			<key>answer3</key>
+			<string>34-7</string>
+			<key>answer4</key>
+			<string>31-10.</string>
+			<key>correct</key>
+			<string>34-7</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many sacks was there in total in the Super Bowl?</string>
+			<key>answer1</key>
+			<string>6</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>7</string>
+			<key>answer4</key>
+			<string>5</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What Rams receiver scored the only passing touchdown for the Rams?</string>
+			<key>answer1</key>
+			<string>Az-Zahir Hakim</string>
+			<key>answer2</key>
+			<string>Torry Holt</string>
+			<key>answer3</key>
+			<string>Ricky Proehl</string>
+			<key>answer4</key>
+			<string>Isaac Bruce</string>
+			<key>correct</key>
+			<string>Ricky Proehl</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many interceptions did Tom Brady (Patriots) throw in the Super Bowl?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>0</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the attendance at Super Bowl XXXVI?</string>
+			<key>answer1</key>
+			<string>72922</string>
+			<key>answer2</key>
+			<string>71459</string>
+			<key>answer3</key>
+			<string>73000</string>
+			<key>answer4</key>
+			<string>70544</string>
+			<key>correct</key>
+			<string>72922</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How long was the field goal Adam Viniateri scored at the end of the game, to win the game 20-17 for the Patriots?</string>
+			<key>answer1</key>
+			<string>52 yards</string>
+			<key>answer2</key>
+			<string>45 yards</string>
+			<key>answer3</key>
+			<string>46 yards</string>
+			<key>answer4</key>
+			<string>48 yards</string>
+			<key>correct</key>
+			<string>48 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many total rushing yards did the Patriots have?</string>
+			<key>answer1</key>
+			<string>337</string>
+			<key>answer2</key>
+			<string>134</string>
+			<key>answer3</key>
+			<string>133</string>
+			<key>answer4</key>
+			<string>90</string>
+			<key>correct</key>
+			<string>133</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who led the game in catches?</string>
+			<key>answer1</key>
+			<string>David Patten</string>
+			<key>answer2</key>
+			<string>Tory Holt</string>
+			<key>answer3</key>
+			<string>Troy Brown</string>
+			<key>answer4</key>
+			<string>Az-Zahir Hakim</string>
+			<key>correct</key>
+			<string>Troy Brown</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was voted MVP by the media?</string>
+			<key>answer1</key>
+			<string>Adam Viniateri</string>
+			<key>answer2</key>
+			<string>Ty Law</string>
+			<key>answer3</key>
+			<string>Tom Brady</string>
+			<key>answer4</key>
+			<string>Kurt Warner</string>
+			<key>correct</key>
+			<string>Tom Brady</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>By how many yards did the Rams outgain the Patriots?</string>
+			<key>answer1</key>
+			<string>7 yards</string>
+			<key>answer2</key>
+			<string>160 yards</string>
+			<key>answer3</key>
+			<string>124 yards</string>
+			<key>answer4</key>
+			<string>63 yards</string>
+			<key>correct</key>
+			<string>160 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What position was the Super Bowl MVP?</string>
+			<key>answer1</key>
+			<string>Linebacker</string>
+			<key>answer2</key>
+			<string>Fullback</string>
+			<key>answer3</key>
+			<string>Runningback</string>
+			<key>answer4</key>
+			<string>Safety</string>
+			<key>correct</key>
+			<string>Safety</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many two-point conversions were attempted?</string>
+			<key>answer1</key>
+			<string>3</string>
+			<key>answer2</key>
+			<string>1</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>0</string>
+			<key>correct</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many interceptions did Oakland quarterback Rich Gannon throw?</string>
+			<key>answer1</key>
+			<string>4</string>
+			<key>answer2</key>
+			<string>5</string>
+			<key>answer3</key>
+			<string>3</string>
+			<key>answer4</key>
+			<string>2</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many years did offensive tackle Lomas Brown float around in the NFL before receiving a Super Bowl ring?</string>
+			<key>answer1</key>
+			<string>12</string>
+			<key>answer2</key>
+			<string>16</string>
+			<key>answer3</key>
+			<string>18</string>
+			<key>answer4</key>
+			<string>14</string>
+			<key>correct</key>
+			<string>18</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many members of the Raiders and Bucs were in the 2003 Pro Bowl?</string>
+			<key>answer1</key>
+			<string>14</string>
+			<key>answer2</key>
+			<string>4</string>
+			<key>answer3</key>
+			<string>11</string>
+			<key>answer4</key>
+			<string>7</string>
+			<key>correct</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>How many times was Oakland QB Rich Gannon sacked?</string>
+			<key>answer1</key>
+			<string>5</string>
+			<key>answer2</key>
+			<string>6</string>
+			<key>answer3</key>
+			<string>4</string>
+			<key>answer4</key>
+			<string>3</string>
+			<key>correct</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Not counting the extra point, who scored the last points in the game?</string>
+			<key>answer1</key>
+			<string>Derrick Brooks</string>
+			<key>answer2</key>
+			<string>Eric Johnson</string>
+			<key>answer3</key>
+			<string>Jerry Rice</string>
+			<key>answer4</key>
+			<string>Dwight Smith</string>
+			<key>correct</key>
+			<string>Dwight Smith</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which two teams represented the American and National Football Conferences in Super Bowl XXXVIII?</string>
+			<key>answer1</key>
+			<string>New England Patriots &amp; St. Louis Rams</string>
+			<key>answer2</key>
+			<string>Tennessee Titans &amp; Dallas Cowboys</string>
+			<key>answer3</key>
+			<string>Oakland Raiders &amp; Tampa Bay Buccaneers</string>
+			<key>answer4</key>
+			<string>New England Patriots &amp; Carolina Panthers</string>
+			<key>correct</key>
+			<string>New England Patriots &amp; Carolina Panthers</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which team had the better season win-loss record entering the Super Bowl, including the playoff games?</string>
+			<key>answer1</key>
+			<string>New England Patriots, 16-2</string>
+			<key>answer2</key>
+			<string>Carolina Panthers, 16-2</string>
+			<key>answer3</key>
+			<string>New England Patriots, 14-2</string>
+			<key>answer4</key>
+			<string>Carolina Panthers, 14-5</string>
+			<key>correct</key>
+			<string>New England Patriots, 16-2</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>With a win over Carolina, the New England Patriots would enter the company of 9 other NFL franchises to win the Super Bowl more than once. Which of the following Bowl-winning teams did not win at least two Super Bowls?</string>
+			<key>answer1</key>
+			<string>Dallas Cowboys</string>
+			<key>answer2</key>
+			<string>Chicago Bears</string>
+			<key>answer3</key>
+			<string>New York Giants</string>
+			<key>answer4</key>
+			<string>Miami Dolphins</string>
+			<key>correct</key>
+			<string>Chicago Bears</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>A Carolina Panther player in this game was once an XFL player. His XFL nickname was He Hate Me. What was the name of this Panther and for which XFL team did he play?</string>
+			<key>answer1</key>
+			<string>Dan Morgan &amp; Orlando Rage</string>
+			<key>answer2</key>
+			<string>Jake Delhomme &amp; Birmingham Thunderbolts</string>
+			<key>answer3</key>
+			<string>Rod Smart &amp; Las Vegas Outlaws</string>
+			<key>answer4</key>
+			<string>William Hampton &amp; Chicago Enforcers</string>
+			<key>correct</key>
+			<string>Rod Smart &amp; Las Vegas Outlaws</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>As part of the pre-game ceremonies, who sang America&apos;s National Anthem?</string>
+			<key>answer1</key>
+			<string>Mariah Carey</string>
+			<key>answer2</key>
+			<string>Janet Jackson</string>
+			<key>answer3</key>
+			<string>Beyonce Knowles</string>
+			<key>answer4</key>
+			<string>Britney Spears</string>
+			<key>correct</key>
+			<string>Beyonce Knowles</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Tom Brady threw for 354 yards for the game. He threw for more yards in just one other game during the regular season. How many yards did he throw for and against which team did he record his highest passing yardage total of the season?</string>
+			<key>answer1</key>
+			<string>368 yards &amp; Houston Texans</string>
+			<key>answer2</key>
+			<string>369 yards &amp; Denver Broncos</string>
+			<key>answer3</key>
+			<string>370 yards &amp; Dallas Cowboys</string>
+			<key>answer4</key>
+			<string>376 yards &amp; Miami Dolphins</string>
+			<key>correct</key>
+			<string>368 yards &amp; Houston Texans</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which team had the most turnovers and how many did they have?</string>
+			<key>answer1</key>
+			<string>New England with 2</string>
+			<key>answer2</key>
+			<string>Carolina with 3</string>
+			<key>answer3</key>
+			<string>Carolina with 2</string>
+			<key>answer4</key>
+			<string>Both teams had just 1 official turnover each</string>
+			<key>correct</key>
+			<string>Both teams had just 1 official turnover each</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which American television network presented the game and who were the game&apos;s commentators in the booth?</string>
+			<key>answer1</key>
+			<string>CBS with Dick Enberg and Dan Dierdorf</string>
+			<key>answer2</key>
+			<string>ABC with Al Michaels and John Madden</string>
+			<key>answer3</key>
+			<string>CBS with Greg Gumbel and Phil Simms</string>
+			<key>answer4</key>
+			<string>FOX with Joe Buck, Chris Collinsworth, and Troy Aikman</string>
+			<key>correct</key>
+			<string>CBS with Greg Gumbel and Phil Simms</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player caught the first completed pass of the game?</string>
+			<key>answer1</key>
+			<string>Stephen Davis</string>
+			<key>answer2</key>
+			<string>Troy Brown</string>
+			<key>answer3</key>
+			<string>Deion Branch</string>
+			<key>answer4</key>
+			<string>Muhsin Muhammad</string>
+			<key>correct</key>
+			<string>Deion Branch</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which player had the most receptions for the game?</string>
+			<key>answer1</key>
+			<string>Troy Brown with 10</string>
+			<key>answer2</key>
+			<string>Deion Branch with 8</string>
+			<key>answer3</key>
+			<string>Deion Branch with 10</string>
+			<key>answer4</key>
+			<string>Muhsin Muhammad with 8</string>
+			<key>correct</key>
+			<string>Deion Branch with 10</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>What was the score at halftime?</string>
+			<key>answer1</key>
+			<string>Carolina 10, New England 7</string>
+			<key>answer2</key>
+			<string>New England 14 , Carolina 7</string>
+			<key>answer3</key>
+			<string>New England 14 , Carolina 10</string>
+			<key>answer4</key>
+			<string>Carolina 14, New England 10</string>
+			<key>correct</key>
+			<string>New England 14 , Carolina 10</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who scored more points in the second half and how many points did the team score?</string>
+			<key>answer1</key>
+			<string>New England Patriots with 18</string>
+			<key>answer2</key>
+			<string>Carolina Panthers with 18</string>
+			<key>answer3</key>
+			<string>New England Patriots with 19</string>
+			<key>answer4</key>
+			<string>Carolina Panthers with 19</string>
+			<key>correct</key>
+			<string>Carolina Panthers with 19</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which quarterback threw for more yards, and how many completed passes did he throw?</string>
+			<key>answer1</key>
+			<string>Tom Brady with 16 completions</string>
+			<key>answer2</key>
+			<string>Jake Delhomme with 22 completions</string>
+			<key>answer3</key>
+			<string>Jake Delhomme with 27 completions</string>
+			<key>answer4</key>
+			<string>Tom Brady with 32 completions</string>
+			<key>correct</key>
+			<string>Tom Brady with 32 completions</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Stephen Davis rushed for a team-leading 1444 yards on the season. How many yards did he rush for in the Super Bowl?</string>
+			<key>answer1</key>
+			<string>123 yards</string>
+			<key>answer2</key>
+			<string>49 yards</string>
+			<key>answer3</key>
+			<string>98 yards</string>
+			<key>answer4</key>
+			<string>101 yards</string>
+			<key>correct</key>
+			<string>49 yards</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>David Givens scored 6 receiving touchdowns on the season for the New England Patriots. How many TDs did Givens score in this game?</string>
+			<key>answer1</key>
+			<string>1</string>
+			<key>answer2</key>
+			<string>3</string>
+			<key>answer3</key>
+			<string>2</string>
+			<key>answer4</key>
+			<string>none</string>
+			<key>correct</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Percentage-wise, Adam Vinatieri&apos;s field goal kicking was the worst season of his professional career with the Patriots. What was his percentage of made field goals during the 2003 regular season and his percentage that he hit during the Super Bowl?</string>
+			<key>answer1</key>
+			<string>78.8% and 33.3%</string>
+			<key>answer2</key>
+			<string>77.1% and 66.7%</string>
+			<key>answer3</key>
+			<string>73.5% and 33.3%</string>
+			<key>answer4</key>
+			<string>79.5% and 25.0%</string>
+			<key>correct</key>
+			<string>73.5% and 33.3%</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who did not have a performance during the halftime show?</string>
+			<key>answer1</key>
+			<string>Janet Jackson</string>
+			<key>answer2</key>
+			<string>Nelly</string>
+			<key>answer3</key>
+			<string>Justin Timberlake</string>
+			<key>answer4</key>
+			<string>Beyonce Knowles</string>
+			<key>correct</key>
+			<string>Beyonce Knowles</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which team had the better 3rd Down efficiency and what was their percentage of conversion success?</string>
+			<key>answer1</key>
+			<string>Carolina at 33%</string>
+			<key>answer2</key>
+			<string>Carolina at 39%</string>
+			<key>answer3</key>
+			<string>Patriots at 45%</string>
+			<key>answer4</key>
+			<string>Patriots at 47%</string>
+			<key>correct</key>
+			<string>Patriots at 47%</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which team had more rushing yards, and how many yards did they run for?</string>
+			<key>answer1</key>
+			<string>Carolina with 92</string>
+			<key>answer2</key>
+			<string>Patriots with 92</string>
+			<key>answer3</key>
+			<string>Carolina with 127</string>
+			<key>answer4</key>
+			<string>Patriots with 127</string>
+			<key>correct</key>
+			<string>Patriots with 127</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Which kicker scored on the game&apos;s longest field goal, and what was the yardage distance?</string>
+			<key>answer1</key>
+			<string>Adam Vinatieri with the game-winning 54 yarder</string>
+			<key>answer2</key>
+			<string>Adam Vinatieri with a 52 yarder</string>
+			<key>answer3</key>
+			<string>John Kasay with a 50 yarder</string>
+			<key>answer4</key>
+			<string>John Kasay with a 48 yarder</string>
+			<key>correct</key>
+			<string>John Kasay with a 50 yarder</string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who led the game in official tackles made, how many tackles did he have, and for which team did he play?</string>
+			<key>answer1</key>
+			<string>Mike Minter with 9 played with Carolina</string>
+			<key>answer2</key>
+			<string>Ty Law with 12 played with New England</string>
+			<key>answer3</key>
+			<string>Rodney Harrison with 8 played with New England</string>
+			<key>answer4</key>
+			<string>Dan Morgan with 11 played for Carolina</string>
+			<key>correct</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>quiz</key>
+			<string>Who was the MVP of the Super Bowl XXXVIII?</string>
+			<key>answer1</key>
+			<string>Tom Brady</string>
+			<key>answer2</key>
+			<string>Jake Delhomme</string>
+			<key>answer3</key>
+			<string>Adam Vinatieri</string>
+			<key>answer4</key>
+			<string>Deshaun Foster</string>
+			<key>correct</key>
+			<string>Tom Brady</string>
+		</dict>
+	</array>
+</dict>
+</plist>
